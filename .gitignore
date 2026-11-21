@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.cache/
+cache/
+secrets/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+.idea/
+**/__pycache__/
+*.py[cod]
+*.pkl
+*.log
+.vite/
