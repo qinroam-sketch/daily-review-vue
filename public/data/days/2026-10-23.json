@@ -1,0 +1,4504 @@
+{
+  "date": "2026-10-23",
+  "weekday": "五",
+  "weekday_full": "星期五",
+  "prev": "2026-10-22",
+  "headline": "高度因大业股份、海洋王到了 6 板，涨停回到 80 只，上涨 4195 只，封板率升到 87%，指数深 V 翻红，看起来像发酵；但两只 6 板都是午前很弱、午后才封，连板溢价仍是 -1.80%，3 板断了，2 进 3 只留下上海九百一只一字——这是退潮次日的情绪修复，不是梯队已经健康。",
+  "summary_html": "<p><b>高度到了 6 板，广度和封板率都回来了，但这是退潮次日的深 V 修复，不是梯队已经发酵。</b>上证收 3690.48 点，涨 0.89%，低开 0.94% 后最低 -2.29%，再翻红，收盘接近最高 +0.91%。深成指 +2.79%，创业板指 +4.16%（最低曾 -3.21%），科创50 +3.04%。沪深日K 4195 只上涨、886 只下跌，中位数转回 +1.54%。三市成交 19732 亿，较 10/22 放量 27.9%；沪深约 19563 亿，多 4275 亿。涨停不含 ST 80 只（另有 2 只 ST，全口径 82），跌停池 7 只（含 1 只 ST，非 ST 6 只），炸板 12 只，封板率 87.0%（80/92），比昨天的 60% 抬回来了。昨日涨停今天平均 +3.38%（22 涨 / 11 跌 / 33 只），昨日连板平均却是 -1.80%（3 涨 / 6 跌 / 9 只）。</p><p><b>大业股份、海洋王都到了 6 板，但都不是一字，午前都很弱；tick 却从昨天的大额净卖，转成今天小净买。</b>大业竞价早盘到过涨停附近，09:20 几乎到跌停价 13.06 元，开盘 -4.00%，最低 13.23 元，13:09 才封住，之后未开，成交约 18.23 亿，收盘封单 0.95 亿；tick 净买 1.03 亿，榜面却净卖 0.56 亿。海洋王竞价早盘到过跌停价，开盘只低开 0.62%，盘中最低 10.09 元触及跌停价，14:25 才封，收盘封单仅 0.03 亿，成交约 19.63 亿；开板次数扶摇 5 次、回放 15 次，待核。tick 净买 1.09 亿，榜面小净卖 0.16 亿。5 进 6 为 2/2。</p><p><b>中段梯子没接上，涨停 tick 合计仍是净卖，天娱数科一只就净卖 13.07 亿。</b>3 进 4 为 0/2，三峡新材竞价几乎封死后 09:30 打开，收 -6.12%；星光股份收 -7.78%。2 进 3 仅 1/5=20%，留下的是缩量一字的上海九百。1 进 2 为 9/24=37.5%，明显好于昨天的 14.7%。东财宇宙内 75 只涨停全部有 tick（5 只科创、2 只 ST 无记录，未编造），合计买入 310.98 亿、卖出 328.48 亿，净卖 17.51 亿，净买 35 只、净卖 40 只。两只 6 板都在净买里，但天娱数科榜面净买 4.89 亿、tick 净卖 13.07 亿，把合计拉成净卖。</p>",
+  "sentiment": {
+    "tag": "情绪修复",
+    "auto_stage": "发酵",
+    "auto_why": [
+      "涨停 80 家，近5日均值 48；跌停 7 家",
+      "封板率 87%；空间板 5→6 板",
+      "昨日涨停今日溢价 +3.38%，昨日连板股 -1.80%",
+      "成交额较前日 +27.9%"
+    ],
+    "notes": [
+      "我的判断：情绪修复。自动规则是「发酵」。我改写成情绪修复，是因为这是退潮次日的深 V 反包，广度和封板率都回来了，但连板溢价仍负、中段断了、6 板质量差，还谈不上梯队健康的发酵。",
+      "依据：① 空间板 5 到 6 板，5 进 6 为 2/2，涨停 33 到 80 只，封板率 60% 到 87%，上涨 447 到 4195 只，跌停 55 到 7 只，中位数转正，指数低开翻红，1 进 2 回到 37.5%，两只 6 板的 tick 还从净卖转成净买；② 但昨日连板平均仍是 -1.80%，3 进 4 为 0/2，2 进 3 只有 20%，两只 6 板都是午前触及或接近跌停、午后才封，海洋王封单只剩 0.03 亿；③ 75 只涨停 tick 合计仍净卖 17.51 亿，天娱一只就净卖 13.07 亿，且和榜面完全反向——钱在修情绪，不等于都在高标上加仓。",
+      "白话：亏钱的人今天少了很多，指数也从地板上拉回来了；但梯子的中段还是空的，最上面的两只 6 板是午后才封上去的。下周先看这两只质量已经变差的 6 板还在不在，以及兆威这类封单更厚的 2 板能不能留下。这些当天并不知道。"
+    ]
+  },
+  "highlight_theme": "机器人",
+  "market": {
+    "src": "指数与成交额：扶摇指数K线；三市成交额=上证综指+深证综指+北证50成交额（北证用北证50近似）。涨跌家数：本机前复权日K（仅沪深，不含北交所）。涨停/跌停/炸板：扶摇股票池。",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3690.48,
+        "pct": 0.8870894989926326,
+        "turnover": 898666870000.0,
+        "prev_turnover": 706095650000.0
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11673.826,
+        "pct": 2.786801815921347,
+        "turnover": 1057616970000.0,
+        "prev_turnover": 822618050000.0
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2684.097,
+        "pct": 4.159880414497885,
+        "turnover": 536851090000.0,
+        "prev_turnover": 406179350000.0
+      },
+      {
+        "code": "000688.SH",
+        "name": "科创50",
+        "close": 1345.51,
+        "pct": 3.035524209913709,
+        "turnover": 96902723000.0,
+        "prev_turnover": 72810415000.0
+      },
+      {
+        "code": "899050.BJ",
+        "name": "北证50",
+        "close": 984.896,
+        "pct": 1.8780644226989551,
+        "turnover": 16930021000.0,
+        "prev_turnover": 13532551000.0
+      }
+    ],
+    "turnover": 1973187861000.0,
+    "turnover_prev": 1542240731000.0,
+    "turnover_chg_pct": 27.942922355615064,
+    "up": 4195,
+    "down": 886,
+    "flat": 135,
+    "n": 5216,
+    "up_prev": 447,
+    "down_prev": 4736,
+    "median_pct": 1.5379239907541753,
+    "big_up": 257,
+    "big_dn": 45,
+    "big_up_prev": 44,
+    "big_dn_prev": 297,
+    "lu_nonst": 80,
+    "lu_all": 82,
+    "lu_st": 2,
+    "lu_nonst_prev": 33,
+    "lu_all_prev": 33,
+    "ld": 7,
+    "ld_prev": 55,
+    "br": 12,
+    "br_prev": 22,
+    "seal_rate": 0.8695652173913043,
+    "seal_rate_prev": 0.6,
+    "sealed": 80,
+    "touched": 92,
+    "prem": 3.3845566461918137,
+    "prem_up": 22,
+    "prem_n": 33,
+    "prem_lb": -1.8000115887253871,
+    "prem_lb_n": 9,
+    "height": 6,
+    "height_prev": 5,
+    "height_name": "大业股份",
+    "notes": [
+      "表面好看的是高度、广度和封板率：空间板 5 板抬到 6 板，涨停 33 到 80 只，封板率 60% 到 87%，上涨 447 到 4195 只，跌停 55 到 7 只，中位数转正，指数从早盘深跌翻红。自动规则因此给出「发酵」。必须和另一组放在一起看：昨日连板平均仍是 -1.80%，9 只里 6 只收绿；3 板两只都断了；2 进 3 只留下上海九百这一只独立一字；两只 6 板都是午前很弱、午后才封，海洋王收盘封单只剩 0.03 亿。财联社午间涨停分析还只有 19 只涨停、封板率 61%，说明修复主要发生在下午，和指数的深 V 是同一件事。",
+      "指数是低开探底后的翻红，不是高开一路走强。上证低开 0.94%，最低 -2.29%，收 +0.89%，接近最高。创业板指低开 1.66%，最低 -3.21%，收 +4.16%。科创50 低开 1.38% 后收 +3.04%。中际旭创低开后收 +3.82%，新易盛 +1.16%，源杰科技 +0.56%，东山精密 +0.63%，早盘的杀没有收到最低。光模块是超跌翻红，不是新主线。成交放到约 1.96 万亿，是放量反包。",
+      "10/22 问的五件事，用当天数据就能回答：两只 5 板都留下并到了 6 板，但都不是一字，板型更差；不过 tick 从昨天的大额净卖转成今天的小净买。三峡、星光没有 3 进 4，中段 3 板没了，只剩上海九百一字 3 板。新的机器人首板没有整体一日游，1 进 2 回到 37.5%，兆威、赛福天、睿能等到了 2 板，鸣志 +9.97% 摸到涨停后炸板，南矿打开收 -3.77%。福莱新材封住首板，宁波东力、浙江荣泰收红但没封。跌停大幅降下来，吉大低开跌停后收 -2.74%，新华传媒 +4.33%，亏钱效应明显收敛，但读者传媒仍收 -6.99%。"
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-10-09",
+      "lu_nonst": 69,
+      "ld": 10,
+      "br": 13,
+      "seal_rate": 0.8414634146341463,
+      "height": 9,
+      "prem": 2.6071684233665637,
+      "turnover": 1916867145000.0
+    },
+    {
+      "date": "2026-10-12",
+      "lu_nonst": 46,
+      "ld": 22,
+      "br": 25,
+      "seal_rate": 0.647887323943662,
+      "height": 10,
+      "prem": 1.7134952859941266,
+      "turnover": 1550965688300.0
+    },
+    {
+      "date": "2026-10-13",
+      "lu_nonst": 67,
+      "ld": 10,
+      "br": 19,
+      "seal_rate": 0.7790697674418605,
+      "height": 3,
+      "prem": 1.7150590920481146,
+      "turnover": 1689123814000.0
+    },
+    {
+      "date": "2026-10-14",
+      "lu_nonst": 36,
+      "ld": 11,
+      "br": 24,
+      "seal_rate": 0.6,
+      "height": 4,
+      "prem": 0.08697493494836743,
+      "turnover": 1426589479700.0
+    },
+    {
+      "date": "2026-10-15",
+      "lu_nonst": 36,
+      "ld": 26,
+      "br": 7,
+      "seal_rate": 0.8372093023255814,
+      "height": 5,
+      "prem": -2.4592771536391345,
+      "turnover": 1646051644300.0
+    },
+    {
+      "date": "2026-10-16",
+      "lu_nonst": 59,
+      "ld": 10,
+      "br": 49,
+      "seal_rate": 0.5462962962962963,
+      "height": 11,
+      "prem": -1.6375797773477714,
+      "turnover": 1569225892000.0
+    },
+    {
+      "date": "2026-10-19",
+      "lu_nonst": 46,
+      "ld": 25,
+      "br": 20,
+      "seal_rate": 0.696969696969697,
+      "height": 3,
+      "prem": 0.4574377593050366,
+      "turnover": 1448960369200.0
+    },
+    {
+      "date": "2026-10-20",
+      "lu_nonst": 52,
+      "ld": 7,
+      "br": 29,
+      "seal_rate": 0.6419753086419753,
+      "height": 4,
+      "prem": 2.3327784598491377,
+      "turnover": 1471637802000.0
+    },
+    {
+      "date": "2026-10-21",
+      "lu_nonst": 50,
+      "ld": 5,
+      "br": 19,
+      "seal_rate": 0.7246376811594203,
+      "height": 4,
+      "prem": 3.3767479689695534,
+      "turnover": 1442228409900.0
+    },
+    {
+      "date": "2026-10-22",
+      "lu_nonst": 33,
+      "ld": 55,
+      "br": 22,
+      "seal_rate": 0.6,
+      "height": 5,
+      "prem": -1.6902846801955764,
+      "turnover": 1542240731000.0
+    },
+    {
+      "date": "2026-10-23",
+      "lu_nonst": 80,
+      "ld": 7,
+      "br": 12,
+      "seal_rate": 0.8695652173913043,
+      "height": 6,
+      "prem": 3.3845566461918137,
+      "turnover": 1973187861000.0
+    }
+  ],
+  "ladder": {
+    "src": "连板数=扶摇涨停池 continue_day_cnt（只算“连续”涨停，含ST）。晋级率=昨天N板今天成为N+1板的比例，用前后两天涨停池自己对出来。",
+    "boards": [
+      {
+        "level": 6,
+        "count": 2,
+        "stocks": [
+          {
+            "code": "603278",
+            "name": "大业股份",
+            "is_st": false,
+            "boards": 6,
+            "boards_text": "6连板",
+            "limit_up_time": "13:09",
+            "open_times": 0,
+            "seal_money": 94790446.0,
+            "reason": "人形机器人+橡胶骨架材料+全球销售"
+          },
+          {
+            "code": "002724",
+            "name": "海洋王",
+            "is_st": false,
+            "boards": 6,
+            "boards_text": "6连板",
+            "limit_up_time": "14:25",
+            "open_times": 5,
+            "seal_money": 3452400.0,
+            "reason": "专业照明+AI照明+军工+“羊”字辈"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "count": 1,
+        "stocks": [
+          {
+            "code": "600838",
+            "name": "上海九百",
+            "is_st": false,
+            "boards": 3,
+            "boards_text": "3连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 109301885.0,
+            "reason": "商贸零售+商业地产+洗染服务"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "count": 9,
+        "stocks": [
+          {
+            "code": "603933",
+            "name": "睿能科技",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 98828654.0,
+            "reason": "人形机器人+工业自动化+存储分销"
+          },
+          {
+            "code": "603028",
+            "name": "赛福天",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 113036465.0,
+            "reason": "机器人腱绳+特种钢索"
+          },
+          {
+            "code": "603280",
+            "name": "南方路机",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:30",
+            "open_times": 0,
+            "seal_money": 58249340.0,
+            "reason": "分拣机器人+智能体+工程搅拌"
+          },
+          {
+            "code": "002535",
+            "name": "林州重机",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:30",
+            "open_times": 0,
+            "seal_money": 36322507.0,
+            "reason": "机器人+煤矿机械+煤矿服务+军工配套"
+          },
+          {
+            "code": "603089",
+            "name": "正裕工业",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:32",
+            "open_times": 1,
+            "seal_money": 50160379.0,
+            "reason": "机器人零部件+柔性触觉+汽车减震器"
+          },
+          {
+            "code": "301502",
+            "name": "华阳智能",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:33",
+            "open_times": 1,
+            "seal_money": 69312089.0,
+            "reason": "机器人关节模组+无框电机+微特电机"
+          },
+          {
+            "code": "003021",
+            "name": "兆威机电",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:43",
+            "open_times": 5,
+            "seal_money": 126047294.0,
+            "reason": "人形机器人+灵巧手+微型传动"
+          },
+          {
+            "code": "000678",
+            "name": "襄阳轴承",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "10:03",
+            "open_times": 6,
+            "seal_money": 48237797.0,
+            "reason": "机器人轴承+汽车轴承+湖北国资"
+          },
+          {
+            "code": "603528",
+            "name": "多伦科技",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "13:19",
+            "open_times": 0,
+            "seal_money": 75309611.0,
+            "reason": "人形机器人+智能交通+智慧驾培"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "count": 70,
+        "stocks": [
+          {
+            "code": "002982",
+            "name": "湘佳股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 124818454.0,
+            "reason": "业绩增长+黄羽肉鸡"
+          },
+          {
+            "code": "002474",
+            "name": "榕基软件",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:31",
+            "open_times": 3,
+            "seal_money": 55381212.0,
+            "reason": "AI政务+信创政务+数据要素"
+          },
+          {
+            "code": "600785",
+            "name": "新华百货",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:33",
+            "open_times": 1,
+            "seal_money": 67963416.0,
+            "reason": "零售促销+股份回购+硬折扣"
+          },
+          {
+            "code": "002343",
+            "name": "慈文传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:34",
+            "open_times": 3,
+            "seal_money": 70317351.0,
+            "reason": "影视剧+微短剧+影视IP"
+          },
+          {
+            "code": "600506",
+            "name": "统一股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:35",
+            "open_times": 4,
+            "seal_money": 42457041.0,
+            "reason": "液冷+润滑油脂+业绩增长"
+          },
+          {
+            "code": "002354",
+            "name": "天娱数科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:37",
+            "open_times": 1,
+            "seal_money": 327008900.0,
+            "reason": "具身智能数据集+AI影视+AI营销+算力"
+          },
+          {
+            "code": "001328",
+            "name": "登康口腔",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:39",
+            "open_times": 9,
+            "seal_money": 4824484.0,
+            "reason": "三季报增长+抗敏牙膏+智能口腔"
+          },
+          {
+            "code": "002009",
+            "name": "天奇股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:43",
+            "open_times": 2,
+            "seal_money": 53481220.0,
+            "reason": "具身智能+工业机器人+产业合作+优必选"
+          },
+          {
+            "code": "300584",
+            "name": "海辰药业",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:44",
+            "open_times": 0,
+            "seal_money": 72821568.0,
+            "reason": "锂电添加剂+三季报增长+固态电池"
+          },
+          {
+            "code": "603677",
+            "name": "奇精机械",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:44",
+            "open_times": 2,
+            "seal_money": 11254530.6,
+            "reason": "机器人零部件+光模块+洗衣机离合器"
+          },
+          {
+            "code": "002421",
+            "name": "达实智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:45",
+            "open_times": 3,
+            "seal_money": 84979739.0,
+            "reason": "AIoT+AI智能体+医疗物流机器人+新皇岗口岸"
+          },
+          {
+            "code": "002077",
+            "name": "大港股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:48",
+            "open_times": 2,
+            "seal_money": 59370996.0,
+            "reason": "集成电路测试+股权转让议案+半年报增长"
+          },
+          {
+            "code": "002945",
+            "name": "华林证券",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:23",
+            "open_times": 0,
+            "seal_money": 92238336.0,
+            "reason": "AI金融+证券业务+西藏券商"
+          },
+          {
+            "code": "301660",
+            "name": "粤芯半导体",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:34",
+            "open_times": 2,
+            "seal_money": 181274890.0,
+            "reason": "晶圆代工+硅光工艺+特色工艺+次新股"
+          },
+          {
+            "code": "001216",
+            "name": "华瓷股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:45",
+            "open_times": 1,
+            "seal_money": 41294220.0,
+            "reason": "MLCC粉体+氧化锆微珠+日用陶瓷"
+          },
+          {
+            "code": "001298",
+            "name": "好上好",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:46",
+            "open_times": 0,
+            "seal_money": 104794942.0,
+            "reason": "存储芯片+半导体分销+人形机器人"
+          },
+          {
+            "code": "600094",
+            "name": "大名城",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "11:17",
+            "open_times": 0,
+            "seal_money": 20553642.0,
+            "reason": "房地产开发+低空经济+算力运营+6G通信"
+          },
+          {
+            "code": "603337",
+            "name": "杰克科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:00",
+            "open_times": 0,
+            "seal_money": 51211804.0,
+            "reason": "人形机器人+数字成套+工业缝纫机"
+          },
+          {
+            "code": "000972",
+            "name": "中基健康",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:00",
+            "open_times": 0,
+            "seal_money": 57478232.0,
+            "reason": "番茄制品+大消费+国企改革"
+          },
+          {
+            "code": "002322",
+            "name": "理工能科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:02",
+            "open_times": 0,
+            "seal_money": 64788965.0,
+            "reason": "AI应用+电力软件+业绩预增"
+          },
+          {
+            "code": "600865",
+            "name": "百大集团",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:04",
+            "open_times": 0,
+            "seal_money": 64647447.0,
+            "reason": "商业零售+净利润增长+信托股权交易"
+          },
+          {
+            "code": "300561",
+            "name": "汇金科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:07",
+            "open_times": 9,
+            "seal_money": 15023642.0,
+            "reason": "金融科技+人工智能+股权转让"
+          },
+          {
+            "code": "601519",
+            "name": "大智慧",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:08",
+            "open_times": 1,
+            "seal_money": 118748725.0,
+            "reason": "互联网金融+AI投研+并购重组"
+          },
+          {
+            "code": "001301",
+            "name": "尚太科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:10",
+            "open_times": 0,
+            "seal_money": 133038041.0,
+            "reason": "负极材料+三季度增长+产能扩建"
+          },
+          {
+            "code": "603081",
+            "name": "大丰实业",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:13",
+            "open_times": 0,
+            "seal_money": 41663343.0,
+            "reason": "机器人+文体旅集成+机器人乐队"
+          },
+          {
+            "code": "301699",
+            "name": "洛轴股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:16",
+            "open_times": 0,
+            "seal_money": 154888230.0,
+            "reason": "机器人轴承+风电轴承+次新股"
+          },
+          {
+            "code": "600215",
+            "name": "派斯林",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:17",
+            "open_times": 0,
+            "seal_money": 24201289.0,
+            "reason": "仿生机器人+工业自动化+北美订单"
+          },
+          {
+            "code": "002612",
+            "name": "朗姿股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:20",
+            "open_times": 0,
+            "seal_money": 50190898.0,
+            "reason": "医疗美容+时尚女装+中韩自贸区"
+          },
+          {
+            "code": "301313",
+            "name": "凡拓数创",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:24",
+            "open_times": 1,
+            "seal_money": 87321047.0,
+            "reason": "物理AI+数字孪生+具身智能"
+          },
+          {
+            "code": "002026",
+            "name": "山东威达",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:24",
+            "open_times": 1,
+            "seal_money": 59612688.0,
+            "reason": "机器人+换电站+电动工具"
+          },
+          {
+            "code": "600187",
+            "name": "*ST国中",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:31",
+            "open_times": 0,
+            "seal_money": 7148964.0,
+            "reason": "股份回购+董事长增持+污水处理"
+          },
+          {
+            "code": "603713",
+            "name": "密尔克卫",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:32",
+            "open_times": 0,
+            "seal_money": 61620504.0,
+            "reason": "三季报增长+半导体物流+化工供应链"
+          },
+          {
+            "code": "605488",
+            "name": "福莱新材",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:37",
+            "open_times": 0,
+            "seal_money": 60015634.0,
+            "reason": "机器人触觉+柔性传感+广告喷墨"
+          },
+          {
+            "code": "688787",
+            "name": "海天瑞声",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 3,
+            "seal_money": 115669491.0,
+            "reason": "具身智能+训练数据+数据要素"
+          },
+          {
+            "code": "603448",
+            "name": "天博智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 5,
+            "seal_money": 27596968.0,
+            "reason": "机器人+六维力传感器+液冷+次新股"
+          },
+          {
+            "code": "603160",
+            "name": "汇顶科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:43",
+            "open_times": 0,
+            "seal_money": 52000853.0,
+            "reason": "指纹识别+超声波指纹传感器+端侧安全+折叠屏"
+          },
+          {
+            "code": "603859",
+            "name": "能科科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:43",
+            "open_times": 0,
+            "seal_money": 101150676.0,
+            "reason": "具身智能+工业智能+工业软件"
+          },
+          {
+            "code": "300296",
+            "name": "利亚德",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:43",
+            "open_times": 1,
+            "seal_money": 221556640.0,
+            "reason": "具身智能+物理AI+光学动捕+智能显示"
+          },
+          {
+            "code": "603171",
+            "name": "税友股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:45",
+            "open_times": 1,
+            "seal_money": 88396052.0,
+            "reason": "AI智能体+财税数字化+阿里云合作"
+          },
+          {
+            "code": "688368",
+            "name": "晶丰明源",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:46",
+            "open_times": 2,
+            "seal_money": 30553142.0,
+            "reason": "三季报增长+充电管理+算力电源"
+          },
+          {
+            "code": "301101",
+            "name": "明月镜片",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:53",
+            "open_times": 0,
+            "seal_money": 52655080.0,
+            "reason": "业绩增长+AI眼镜+镜片主业"
+          },
+          {
+            "code": "000559",
+            "name": "万向钱潮",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:55",
+            "open_times": 0,
+            "seal_money": 160667550.0,
+            "reason": "机器人+轮毂单元+高速轴承"
+          },
+          {
+            "code": "688071",
+            "name": "华依科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 1,
+            "seal_money": 52497055.0,
+            "reason": "物理AI+人形机器人+IMU"
+          },
+          {
+            "code": "603721",
+            "name": "中广天择",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 1,
+            "seal_money": 33094754.0,
+            "reason": "AI语料+AI漫剧+传媒内容"
+          },
+          {
+            "code": "603466",
+            "name": "风语筑",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 0,
+            "seal_money": 69759534.0,
+            "reason": "物理AI+具身智能+数字展示"
+          },
+          {
+            "code": "002988",
+            "name": "豪美新材",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:00",
+            "open_times": 1,
+            "seal_money": 45248016.0,
+            "reason": "机器人轻量化+汽车轻量化+铝型材"
+          },
+          {
+            "code": "603901",
+            "name": "永创智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:00",
+            "open_times": 0,
+            "seal_money": 49158774.0,
+            "reason": "人形机器人+智能包装+半年报增长"
+          },
+          {
+            "code": "000810",
+            "name": "创维数字",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:02",
+            "open_times": 1,
+            "seal_money": 72800310.0,
+            "reason": "智能终端+谷歌合作+AI眼镜"
+          },
+          {
+            "code": "002687",
+            "name": "乔治白",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:03",
+            "open_times": 0,
+            "seal_money": 21179853.0,
+            "reason": "职业装+校服+股东户数下降"
+          },
+          {
+            "code": "301428",
+            "name": "世纪恒通",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:04",
+            "open_times": 2,
+            "seal_money": 65509035.0,
+            "reason": "数据标注+具身智能+智能驾驶"
+          },
+          {
+            "code": "300307",
+            "name": "慈星股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:11",
+            "open_times": 0,
+            "seal_money": 163015540.0,
+            "reason": "机器人+电脑横机+电子皮肤"
+          },
+          {
+            "code": "002241",
+            "name": "歌尔股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:13",
+            "open_times": 0,
+            "seal_money": 332256120.0,
+            "reason": "机器人+智能眼镜+精密零组件"
+          },
+          {
+            "code": "688836",
+            "name": "宇树科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:15",
+            "open_times": 0,
+            "seal_money": 404473060.0,
+            "reason": "人形机器人+物理AI+H2-X"
+          },
+          {
+            "code": "002979",
+            "name": "雷赛智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:15",
+            "open_times": 0,
+            "seal_money": 131216280.0,
+            "reason": "三季报增长+人形机器人+伺服系统"
+          },
+          {
+            "code": "002931",
+            "name": "锋龙股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 0,
+            "seal_money": 25616070.0,
+            "reason": "机器人概念+优必选入主+机电组件+电控产品"
+          },
+          {
+            "code": "000700",
+            "name": "模塑科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 2,
+            "seal_money": 59467716.0,
+            "reason": "人形机器人+汽车外饰件+毛利率提升"
+          },
+          {
+            "code": "001283",
+            "name": "豪鹏科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:18",
+            "open_times": 4,
+            "seal_money": 4402344.9,
+            "reason": "机器人电池+智能眼镜电池+三季报增长"
+          },
+          {
+            "code": "002380",
+            "name": "科远智慧",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:18",
+            "open_times": 4,
+            "seal_money": 22988236.0,
+            "reason": "机器人+工业人工智能+半年报增长"
+          },
+          {
+            "code": "603838",
+            "name": "四通股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:19",
+            "open_times": 5,
+            "seal_money": 97152.0,
+            "reason": "日用陶瓷+锆钛精炼+摘帽"
+          },
+          {
+            "code": "300369",
+            "name": "绿盟科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:21",
+            "open_times": 0,
+            "seal_money": 114647481.0,
+            "reason": "AI安全+智慧安全4.0+网络安全"
+          },
+          {
+            "code": "603341",
+            "name": "龙旗科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:22",
+            "open_times": 1,
+            "seal_money": 32268547.0,
+            "reason": "AI眼镜+AI PC+机器人+智能终端"
+          },
+          {
+            "code": "603286",
+            "name": "日盈电子",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:37",
+            "open_times": 0,
+            "seal_money": 42396459.0,
+            "reason": "人形机器人+汽车零部件+电子皮肤"
+          },
+          {
+            "code": "002439",
+            "name": "启明星辰",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:37",
+            "open_times": 0,
+            "seal_money": 3819690.0,
+            "reason": "AI安全+数据安全+中移动协同"
+          },
+          {
+            "code": "002747",
+            "name": "埃斯顿",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:38",
+            "open_times": 0,
+            "seal_money": 95408212.0,
+            "reason": "工业机器人+具身智能+人形机器人"
+          },
+          {
+            "code": "600745",
+            "name": "*ST闻泰",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:40",
+            "open_times": 1,
+            "seal_money": 23982701.0,
+            "reason": "功率半导体+AI服务器+车规半导体"
+          },
+          {
+            "code": "002812",
+            "name": "恩捷股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:41",
+            "open_times": 0,
+            "seal_money": 73405026.0,
+            "reason": "锂电池隔膜+业绩扭亏+固态电池材料"
+          },
+          {
+            "code": "688686",
+            "name": "奥普特",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:42",
+            "open_times": 0,
+            "seal_money": 45969345.0,
+            "reason": "具身智能+机器视觉+工业智能"
+          },
+          {
+            "code": "001359",
+            "name": "平安电工",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:46",
+            "open_times": 1,
+            "seal_money": 8789939.4,
+            "reason": "电子布+PCB概念+泰国建厂"
+          },
+          {
+            "code": "600303",
+            "name": "曙光股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:46",
+            "open_times": 0,
+            "seal_money": 23970446.0,
+            "reason": "新能源客车+汽车车桥+军工"
+          },
+          {
+            "code": "000156",
+            "name": "华数传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:47",
+            "open_times": 0,
+            "seal_money": 39029562.0,
+            "reason": "广电智能体+具身智能+智慧家庭+内容安全审核"
+          }
+        ]
+      }
+    ],
+    "promotions": [
+      {
+        "from_level": 1,
+        "to_level": 2,
+        "label": "1进2",
+        "yesterday": 24,
+        "promoted": 9,
+        "suspended": 0,
+        "tradable": 24,
+        "rate": 0.375,
+        "promoted_names": [
+          "兆威机电",
+          "华阳智能",
+          "南方路机",
+          "睿能科技",
+          "襄阳轴承",
+          "正裕工业",
+          "赛福天",
+          "多伦科技",
+          "林州重机"
+        ],
+        "suspended_names": []
+      },
+      {
+        "from_level": 2,
+        "to_level": 3,
+        "label": "2进3",
+        "yesterday": 5,
+        "promoted": 1,
+        "suspended": 0,
+        "tradable": 5,
+        "rate": 0.2,
+        "promoted_names": [
+          "上海九百"
+        ],
+        "suspended_names": []
+      },
+      {
+        "from_level": 3,
+        "to_level": 4,
+        "label": "3进4",
+        "yesterday": 2,
+        "promoted": 0,
+        "suspended": 0,
+        "tradable": 2,
+        "rate": 0.0,
+        "promoted_names": [],
+        "suspended_names": []
+      },
+      {
+        "from_level": 5,
+        "to_level": 6,
+        "label": "5进6",
+        "yesterday": 2,
+        "promoted": 2,
+        "suspended": 0,
+        "tradable": 2,
+        "rate": 1.0,
+        "promoted_names": [
+          "大业股份",
+          "海洋王"
+        ],
+        "suspended_names": []
+      }
+    ],
+    "broke": [
+      {
+        "name": "海量数据",
+        "code": "603138",
+        "yesterday_text": "2连板",
+        "pct": -8.687943262411357,
+        "status": null,
+        "reason": "数据库+AI应用+定增注册"
+      },
+      {
+        "name": "天洋新材",
+        "code": "603330",
+        "yesterday_text": "2连板",
+        "pct": -6.306306306306297,
+        "status": null,
+        "reason": "电子胶+光模块胶+热熔胶+“羊”字辈"
+      },
+      {
+        "name": "出版传媒",
+        "code": "601999",
+        "yesterday_text": "2连板",
+        "pct": -7.342657342657343,
+        "status": null,
+        "reason": "出版发行+AI出版+数智基金"
+      },
+      {
+        "name": "哈空调",
+        "code": "600202",
+        "yesterday_text": "2连板",
+        "pct": -9.951060358890707,
+        "status": null,
+        "reason": "空冷器+飞翼空冷器+股东增持"
+      },
+      {
+        "name": "三峡新材",
+        "code": "600293",
+        "yesterday_text": "3连板",
+        "pct": -6.118546845124284,
+        "status": null,
+        "reason": "重大重组+锂电电解液+汽车电子玻璃"
+      },
+      {
+        "name": "星光股份",
+        "code": "002076",
+        "yesterday_text": "3连板",
+        "pct": -7.777777777777772,
+        "status": null,
+        "reason": "数据要素+信息安全+LED封装+量子科技"
+      }
+    ],
+    "fuyao_page_boards": [
+      {
+        "board_level": "one",
+        "stock_count": 68,
+        "promotion_rate": null
+      },
+      {
+        "board_level": "two",
+        "stock_count": 9,
+        "promotion_rate": 0.38
+      },
+      {
+        "board_level": "three",
+        "stock_count": 1,
+        "promotion_rate": 0.2
+      },
+      {
+        "board_level": "four",
+        "stock_count": 0,
+        "promotion_rate": 0.0
+      },
+      {
+        "board_level": "five_plus",
+        "stock_count": 2,
+        "promotion_rate": 1.0
+      }
+    ],
+    "notes": [
+      "两只 6 板都不是一字，午前都很弱，这是今天必须先写清楚的；媒体所说的「地天」「准地天」，要用竞价和日 K 对准，不能直接照抄。大业股份竞价早盘到过 15.95 元（接近涨停价 15.96 元），09:20 掉到 13.06 元，几乎就是跌停价，09:25 开在 13.93 元（-4.00%），最低 13.23 元，13:09 才封住，扶摇和回放都未再记开板。收盘封单 0.95 亿（竞价接口封单 0.28 亿，不要混用），成交约 18.23 亿。tick 买入 8.84 亿、卖出 7.81 亿，净买 1.03 亿。海洋王竞价早盘到过跌停价 10.09 元，开盘已经拉回至 11.14 元（-0.62%），盘中最低再次触及 10.09 元，收 12.33 元涨停；不是开盘跌停的那种地天，而是盘中触及跌停后收涨停。扶摇记 14:25 封、开板 5 次，回放同样记 14:25:36 先封，开板字段却是 15 次，事件列表能点名的开板 3 次，待核。收盘封单仅 0.03 亿，成交约 19.63 亿，tick 净买 1.09 亿。5 进 6 为 2/2。高度留下了，板型比昨天更差，但连续竞价资金隔日回头买了——这和昨天两只 5 板大额净卖，不是同一天的故事。",
+      "中段没有接上：3 板两只都断了，2 进 3 只留下上海九百这一只缩量一字。三峡新材竞价几乎封死，开盘 +9.94%，09:30 打开，最低 4.71 元，收 4.91 元、-6.12%，成交放到约 18.83 亿，从昨天的缩量一字变成今天的放量打开；tick 净买 4.69 亿，榜面净买 0.28 亿（游资净买 0.83 亿），方向同向，但 tick 比前五席位大得多。星光股份收 -7.78%。2 进 3 为 1/5=20%。上海九百竞价早盘到过涨停，09:20 回落到 +5.80%，09:25 封死，全天一字，成交约 2.35 亿，收盘封单 1.09 亿（竞价/回放封单约 0.11 亿）；tick 买盘为 0、净卖 2.35 亿，约等于成交额，按一字口径解读，不能和放量开板票等量齐观。它也不在 1 日榜上。海量数据低开 9.87%，收 -8.69%；天洋新材 -6.31%；出版传媒 -7.34%；哈空调跌停。",
+      "1 进 2 回到 9/24=37.5%，机器人首板没有整体一日游，但板型分化很大。赛福天、睿能科技是竞价一字 2 板，收盘封单分别 1.13 亿、0.99 亿，tick 净卖约等于成交，按一字口径看。兆威机电走到 2 板，收盘封单 1.26 亿是这批里最厚的，但开板次数扶摇 5 次、回放 11 次，待核；tick 净卖 0.43 亿，榜面却净买 2.14 亿。南方路机、林州重机开盘接近涨停后封住。襄阳轴承低开 2.91%，开板 6 或 18 次，待核。多伦科技拖到 13:19 才封。华阳智能走到创业板 20cm 的 2 板，观察名单剔除。鸣志电器 14:30 摸到涨停价后炸板，收 +9.97%，tick 净买 1.09 亿。南矿集团竞价封死后 09:35 打开，收 -3.77%。今日首板非 ST 68 只，新票很多，不等于梯子已经铺齐。"
+    ]
+  },
+  "themes": {
+    "src": "归类方法：按扶摇涨停原因里的关键词归到题材（一只票可同时属于多个题材，所以加总会大于涨停总数）。龙头=该题材连板最高、同板数里封板最早；中军=该题材涨停股中当天成交额最大（成交额用日K量×价估算）；跟风=其余、封板较晚的。“新启动/持续”看前5个交易日该题材的涨停家数。",
+    "top": [
+      {
+        "name": "机器人",
+        "n": 45,
+        "status": "持续发酵",
+        "lead": {
+          "code": "603278",
+          "name": "大业股份",
+          "is_st": false,
+          "boards": 6,
+          "boards_text": "6连板",
+          "limit_up_time": "13:09",
+          "open_times": 0,
+          "seal_money": 94790446.0,
+          "reason": "人形机器人+橡胶骨架材料+全球销售"
+        },
+        "mid": {
+          "code": "688836",
+          "name": "宇树科技",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "14:15",
+          "open_times": 0,
+          "seal_money": 404473060.0,
+          "reason": "人形机器人+物理AI+H2-X",
+          "amount_est": 5272589712.0
+        },
+        "followers": [
+          {
+            "code": "000156",
+            "name": "华数传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:47",
+            "open_times": 0,
+            "seal_money": 39029562.0,
+            "reason": "广电智能体+具身智能+智慧家庭+内容安全审核"
+          },
+          {
+            "code": "688686",
+            "name": "奥普特",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:42",
+            "open_times": 0,
+            "seal_money": 45969345.0,
+            "reason": "具身智能+机器视觉+工业智能"
+          },
+          {
+            "code": "002747",
+            "name": "埃斯顿",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:38",
+            "open_times": 0,
+            "seal_money": 95408212.0,
+            "reason": "工业机器人+具身智能+人形机器人"
+          },
+          {
+            "code": "603286",
+            "name": "日盈电子",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:37",
+            "open_times": 0,
+            "seal_money": 42396459.0,
+            "reason": "人形机器人+汽车零部件+电子皮肤"
+          }
+        ],
+        "trend": [
+          15,
+          16,
+          24,
+          9,
+          15,
+          45
+        ],
+        "trend_dates": [
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "stocks": [
+          {
+            "code": "603933",
+            "name": "睿能科技",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 98828654.0,
+            "reason": "人形机器人+工业自动化+存储分销",
+            "amount_est": 85692531.66000001
+          },
+          {
+            "code": "603028",
+            "name": "赛福天",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 113036465.0,
+            "reason": "机器人腱绳+特种钢索",
+            "amount_est": 42525356.99999999
+          },
+          {
+            "code": "603280",
+            "name": "南方路机",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:30",
+            "open_times": 0,
+            "seal_money": 58249340.0,
+            "reason": "分拣机器人+智能体+工程搅拌",
+            "amount_est": 117631504.97999997
+          },
+          {
+            "code": "002535",
+            "name": "林州重机",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:30",
+            "open_times": 0,
+            "seal_money": 36322507.0,
+            "reason": "机器人+煤矿机械+煤矿服务+军工配套",
+            "amount_est": 169826597.45999998
+          },
+          {
+            "code": "603089",
+            "name": "正裕工业",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:32",
+            "open_times": 1,
+            "seal_money": 50160379.0,
+            "reason": "机器人零部件+柔性触觉+汽车减震器",
+            "amount_est": 223818346.87
+          },
+          {
+            "code": "301502",
+            "name": "华阳智能",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:33",
+            "open_times": 1,
+            "seal_money": 69312089.0,
+            "reason": "机器人关节模组+无框电机+微特电机",
+            "amount_est": 256711680.0
+          },
+          {
+            "code": "002354",
+            "name": "天娱数科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:37",
+            "open_times": 1,
+            "seal_money": 327008900.0,
+            "reason": "具身智能数据集+AI影视+AI营销+算力",
+            "amount_est": 2342497924.91
+          },
+          {
+            "code": "003021",
+            "name": "兆威机电",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:43",
+            "open_times": 5,
+            "seal_money": 126047294.0,
+            "reason": "人形机器人+灵巧手+微型传动",
+            "amount_est": 2401420309.25
+          },
+          {
+            "code": "002009",
+            "name": "天奇股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:43",
+            "open_times": 2,
+            "seal_money": 53481220.0,
+            "reason": "具身智能+工业机器人+产业合作+优必选",
+            "amount_est": 1053549568.6999999
+          },
+          {
+            "code": "603677",
+            "name": "奇精机械",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:44",
+            "open_times": 2,
+            "seal_money": 11254530.6,
+            "reason": "机器人零部件+光模块+洗衣机离合器",
+            "amount_est": 208533104.60000002
+          },
+          {
+            "code": "002421",
+            "name": "达实智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:45",
+            "open_times": 3,
+            "seal_money": 84979739.0,
+            "reason": "AIoT+AI智能体+医疗物流机器人+新皇岗口岸",
+            "amount_est": 1851146509.8000002
+          },
+          {
+            "code": "000678",
+            "name": "襄阳轴承",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "10:03",
+            "open_times": 6,
+            "seal_money": 48237797.0,
+            "reason": "机器人轴承+汽车轴承+湖北国资",
+            "amount_est": 1658408918.04
+          },
+          {
+            "code": "001298",
+            "name": "好上好",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:46",
+            "open_times": 0,
+            "seal_money": 104794942.0,
+            "reason": "存储芯片+半导体分销+人形机器人",
+            "amount_est": 380500403.36
+          },
+          {
+            "code": "603337",
+            "name": "杰克科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:00",
+            "open_times": 0,
+            "seal_money": 51211804.0,
+            "reason": "人形机器人+数字成套+工业缝纫机",
+            "amount_est": 683543846.4399999
+          },
+          {
+            "code": "603278",
+            "name": "大业股份",
+            "is_st": false,
+            "boards": 6,
+            "boards_text": "6连板",
+            "limit_up_time": "13:09",
+            "open_times": 0,
+            "seal_money": 94790446.0,
+            "reason": "人形机器人+橡胶骨架材料+全球销售",
+            "amount_est": 1823073501.4799998
+          },
+          {
+            "code": "603081",
+            "name": "大丰实业",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:13",
+            "open_times": 0,
+            "seal_money": 41663343.0,
+            "reason": "机器人+文体旅集成+机器人乐队",
+            "amount_est": 177431012.85000002
+          },
+          {
+            "code": "301699",
+            "name": "洛轴股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:16",
+            "open_times": 0,
+            "seal_money": 154888230.0,
+            "reason": "机器人轴承+风电轴承+次新股",
+            "amount_est": 858602778.12
+          },
+          {
+            "code": "600215",
+            "name": "派斯林",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:17",
+            "open_times": 0,
+            "seal_money": 24201289.0,
+            "reason": "仿生机器人+工业自动化+北美订单",
+            "amount_est": 155349615.96
+          },
+          {
+            "code": "603528",
+            "name": "多伦科技",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "13:19",
+            "open_times": 0,
+            "seal_money": 75309611.0,
+            "reason": "人形机器人+智能交通+智慧驾培",
+            "amount_est": 718758719.58
+          },
+          {
+            "code": "301313",
+            "name": "凡拓数创",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:24",
+            "open_times": 1,
+            "seal_money": 87321047.0,
+            "reason": "物理AI+数字孪生+具身智能",
+            "amount_est": 1901351362.56
+          },
+          {
+            "code": "002026",
+            "name": "山东威达",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:24",
+            "open_times": 1,
+            "seal_money": 59612688.0,
+            "reason": "机器人+换电站+电动工具",
+            "amount_est": 248846976.48
+          },
+          {
+            "code": "605488",
+            "name": "福莱新材",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:37",
+            "open_times": 0,
+            "seal_money": 60015634.0,
+            "reason": "机器人触觉+柔性传感+广告喷墨",
+            "amount_est": 1326619363.6499999
+          },
+          {
+            "code": "688787",
+            "name": "海天瑞声",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 3,
+            "seal_money": 115669491.0,
+            "reason": "具身智能+训练数据+数据要素",
+            "amount_est": 1464838425.0
+          },
+          {
+            "code": "603448",
+            "name": "天博智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 5,
+            "seal_money": 27596968.0,
+            "reason": "机器人+六维力传感器+液冷+次新股",
+            "amount_est": 330465621.36
+          },
+          {
+            "code": "603859",
+            "name": "能科科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:43",
+            "open_times": 0,
+            "seal_money": 101150676.0,
+            "reason": "具身智能+工业智能+工业软件",
+            "amount_est": 983387560.32
+          },
+          {
+            "code": "300296",
+            "name": "利亚德",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:43",
+            "open_times": 1,
+            "seal_money": 221556640.0,
+            "reason": "具身智能+物理AI+光学动捕+智能显示",
+            "amount_est": 4743868535.04
+          },
+          {
+            "code": "000559",
+            "name": "万向钱潮",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:55",
+            "open_times": 0,
+            "seal_money": 160667550.0,
+            "reason": "机器人+轮毂单元+高速轴承",
+            "amount_est": 1355967597.6000001
+          },
+          {
+            "code": "688071",
+            "name": "华依科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 1,
+            "seal_money": 52497055.0,
+            "reason": "物理AI+人形机器人+IMU",
+            "amount_est": 794083815.36
+          },
+          {
+            "code": "603466",
+            "name": "风语筑",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 0,
+            "seal_money": 69759534.0,
+            "reason": "物理AI+具身智能+数字展示",
+            "amount_est": 1459221028.59
+          },
+          {
+            "code": "002988",
+            "name": "豪美新材",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:00",
+            "open_times": 1,
+            "seal_money": 45248016.0,
+            "reason": "机器人轻量化+汽车轻量化+铝型材",
+            "amount_est": 283669353.0
+          },
+          {
+            "code": "603901",
+            "name": "永创智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:00",
+            "open_times": 0,
+            "seal_money": 49158774.0,
+            "reason": "人形机器人+智能包装+半年报增长",
+            "amount_est": 242355798.72
+          },
+          {
+            "code": "301428",
+            "name": "世纪恒通",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:04",
+            "open_times": 2,
+            "seal_money": 65509035.0,
+            "reason": "数据标注+具身智能+智能驾驶",
+            "amount_est": 570573246.72
+          },
+          {
+            "code": "300307",
+            "name": "慈星股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:11",
+            "open_times": 0,
+            "seal_money": 163015540.0,
+            "reason": "机器人+电脑横机+电子皮肤",
+            "amount_est": 1158644088.1799998
+          },
+          {
+            "code": "002241",
+            "name": "歌尔股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:13",
+            "open_times": 0,
+            "seal_money": 332256120.0,
+            "reason": "机器人+智能眼镜+精密零组件",
+            "amount_est": 2992627982.3999996
+          },
+          {
+            "code": "688836",
+            "name": "宇树科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:15",
+            "open_times": 0,
+            "seal_money": 404473060.0,
+            "reason": "人形机器人+物理AI+H2-X",
+            "amount_est": 5272589712.0
+          },
+          {
+            "code": "002979",
+            "name": "雷赛智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:15",
+            "open_times": 0,
+            "seal_money": 131216280.0,
+            "reason": "三季报增长+人形机器人+伺服系统",
+            "amount_est": 1068617814.15
+          },
+          {
+            "code": "002931",
+            "name": "锋龙股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 0,
+            "seal_money": 25616070.0,
+            "reason": "机器人概念+优必选入主+机电组件+电控产品",
+            "amount_est": 375585292.44000006
+          },
+          {
+            "code": "000700",
+            "name": "模塑科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 2,
+            "seal_money": 59467716.0,
+            "reason": "人形机器人+汽车外饰件+毛利率提升",
+            "amount_est": 957586532.7600001
+          },
+          {
+            "code": "001283",
+            "name": "豪鹏科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:18",
+            "open_times": 4,
+            "seal_money": 4402344.9,
+            "reason": "机器人电池+智能眼镜电池+三季报增长",
+            "amount_est": 998711714.58
+          },
+          {
+            "code": "002380",
+            "name": "科远智慧",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:18",
+            "open_times": 4,
+            "seal_money": 22988236.0,
+            "reason": "机器人+工业人工智能+半年报增长",
+            "amount_est": 297163459.18
+          },
+          {
+            "code": "603341",
+            "name": "龙旗科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:22",
+            "open_times": 1,
+            "seal_money": 32268547.0,
+            "reason": "AI眼镜+AI PC+机器人+智能终端",
+            "amount_est": 1792644180.74
+          },
+          {
+            "code": "603286",
+            "name": "日盈电子",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:37",
+            "open_times": 0,
+            "seal_money": 42396459.0,
+            "reason": "人形机器人+汽车零部件+电子皮肤",
+            "amount_est": 424320820.0
+          },
+          {
+            "code": "002747",
+            "name": "埃斯顿",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:38",
+            "open_times": 0,
+            "seal_money": 95408212.0,
+            "reason": "工业机器人+具身智能+人形机器人",
+            "amount_est": 2406476234.08
+          },
+          {
+            "code": "688686",
+            "name": "奥普特",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:42",
+            "open_times": 0,
+            "seal_money": 45969345.0,
+            "reason": "具身智能+机器视觉+工业智能",
+            "amount_est": 788298413.1999999
+          },
+          {
+            "code": "000156",
+            "name": "华数传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:47",
+            "open_times": 0,
+            "seal_money": 39029562.0,
+            "reason": "广电智能体+具身智能+智慧家庭+内容安全审核",
+            "amount_est": 272210208.33
+          }
+        ]
+      },
+      {
+        "name": "AI应用",
+        "n": 8,
+        "status": "持续发酵",
+        "lead": {
+          "code": "002474",
+          "name": "榕基软件",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "09:31",
+          "open_times": 3,
+          "seal_money": 55381212.0,
+          "reason": "AI政务+信创政务+数据要素"
+        },
+        "mid": {
+          "code": "002421",
+          "name": "达实智能",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "09:45",
+          "open_times": 3,
+          "seal_money": 84979739.0,
+          "reason": "AIoT+AI智能体+医疗物流机器人+新皇岗口岸",
+          "amount_est": 1851146509.8000002
+        },
+        "followers": [
+          {
+            "code": "000156",
+            "name": "华数传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:47",
+            "open_times": 0,
+            "seal_money": 39029562.0,
+            "reason": "广电智能体+具身智能+智慧家庭+内容安全审核"
+          },
+          {
+            "code": "603721",
+            "name": "中广天择",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 1,
+            "seal_money": 33094754.0,
+            "reason": "AI语料+AI漫剧+传媒内容"
+          },
+          {
+            "code": "603171",
+            "name": "税友股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:45",
+            "open_times": 1,
+            "seal_money": 88396052.0,
+            "reason": "AI智能体+财税数字化+阿里云合作"
+          },
+          {
+            "code": "002322",
+            "name": "理工能科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:02",
+            "open_times": 0,
+            "seal_money": 64788965.0,
+            "reason": "AI应用+电力软件+业绩预增"
+          }
+        ],
+        "trend": [
+          4,
+          0,
+          5,
+          9,
+          2,
+          8
+        ],
+        "trend_dates": [
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "stocks": [
+          {
+            "code": "603280",
+            "name": "南方路机",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:30",
+            "open_times": 0,
+            "seal_money": 58249340.0,
+            "reason": "分拣机器人+智能体+工程搅拌",
+            "amount_est": 117631504.97999997
+          },
+          {
+            "code": "002474",
+            "name": "榕基软件",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:31",
+            "open_times": 3,
+            "seal_money": 55381212.0,
+            "reason": "AI政务+信创政务+数据要素",
+            "amount_est": 657569231.64
+          },
+          {
+            "code": "002354",
+            "name": "天娱数科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:37",
+            "open_times": 1,
+            "seal_money": 327008900.0,
+            "reason": "具身智能数据集+AI影视+AI营销+算力",
+            "amount_est": 2342497924.91
+          },
+          {
+            "code": "002421",
+            "name": "达实智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:45",
+            "open_times": 3,
+            "seal_money": 84979739.0,
+            "reason": "AIoT+AI智能体+医疗物流机器人+新皇岗口岸",
+            "amount_est": 1851146509.8000002
+          },
+          {
+            "code": "002322",
+            "name": "理工能科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:02",
+            "open_times": 0,
+            "seal_money": 64788965.0,
+            "reason": "AI应用+电力软件+业绩预增",
+            "amount_est": 361814210.85
+          },
+          {
+            "code": "603171",
+            "name": "税友股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:45",
+            "open_times": 1,
+            "seal_money": 88396052.0,
+            "reason": "AI智能体+财税数字化+阿里云合作",
+            "amount_est": 785490596.77
+          },
+          {
+            "code": "603721",
+            "name": "中广天择",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:58",
+            "open_times": 1,
+            "seal_money": 33094754.0,
+            "reason": "AI语料+AI漫剧+传媒内容",
+            "amount_est": 530421696.0
+          },
+          {
+            "code": "000156",
+            "name": "华数传媒",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:47",
+            "open_times": 0,
+            "seal_money": 39029562.0,
+            "reason": "广电智能体+具身智能+智慧家庭+内容安全审核",
+            "amount_est": 272210208.33
+          }
+        ]
+      },
+      {
+        "name": "算力/液冷/光模块",
+        "n": 7,
+        "status": "持续发酵",
+        "lead": {
+          "code": "600506",
+          "name": "统一股份",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "09:35",
+          "open_times": 4,
+          "seal_money": 42457041.0,
+          "reason": "液冷+润滑油脂+业绩增长"
+        },
+        "mid": {
+          "code": "688368",
+          "name": "晶丰明源",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "13:46",
+          "open_times": 2,
+          "seal_money": 30553142.0,
+          "reason": "三季报增长+充电管理+算力电源",
+          "amount_est": 1151055559.4399998
+        },
+        "followers": [
+          {
+            "code": "600745",
+            "name": "*ST闻泰",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:40",
+            "open_times": 1,
+            "seal_money": 23982701.0,
+            "reason": "功率半导体+AI服务器+车规半导体"
+          },
+          {
+            "code": "603448",
+            "name": "天博智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 5,
+            "seal_money": 27596968.0,
+            "reason": "机器人+六维力传感器+液冷+次新股"
+          },
+          {
+            "code": "600094",
+            "name": "大名城",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "11:17",
+            "open_times": 0,
+            "seal_money": 20553642.0,
+            "reason": "房地产开发+低空经济+算力运营+6G通信"
+          },
+          {
+            "code": "603677",
+            "name": "奇精机械",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:44",
+            "open_times": 2,
+            "seal_money": 11254530.6,
+            "reason": "机器人零部件+光模块+洗衣机离合器"
+          }
+        ],
+        "trend": [
+          3,
+          6,
+          5,
+          8,
+          5,
+          7
+        ],
+        "trend_dates": [
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "stocks": [
+          {
+            "code": "600506",
+            "name": "统一股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:35",
+            "open_times": 4,
+            "seal_money": 42457041.0,
+            "reason": "液冷+润滑油脂+业绩增长",
+            "amount_est": 433120437.09
+          },
+          {
+            "code": "002354",
+            "name": "天娱数科",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:37",
+            "open_times": 1,
+            "seal_money": 327008900.0,
+            "reason": "具身智能数据集+AI影视+AI营销+算力",
+            "amount_est": 2342497924.91
+          },
+          {
+            "code": "603677",
+            "name": "奇精机械",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:44",
+            "open_times": 2,
+            "seal_money": 11254530.6,
+            "reason": "机器人零部件+光模块+洗衣机离合器",
+            "amount_est": 208533104.60000002
+          },
+          {
+            "code": "600094",
+            "name": "大名城",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "11:17",
+            "open_times": 0,
+            "seal_money": 20553642.0,
+            "reason": "房地产开发+低空经济+算力运营+6G通信",
+            "amount_est": 211469118.38
+          },
+          {
+            "code": "603448",
+            "name": "天博智能",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:42",
+            "open_times": 5,
+            "seal_money": 27596968.0,
+            "reason": "机器人+六维力传感器+液冷+次新股",
+            "amount_est": 330465621.36
+          },
+          {
+            "code": "688368",
+            "name": "晶丰明源",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:46",
+            "open_times": 2,
+            "seal_money": 30553142.0,
+            "reason": "三季报增长+充电管理+算力电源",
+            "amount_est": 1151055559.4399998
+          },
+          {
+            "code": "600745",
+            "name": "*ST闻泰",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:40",
+            "open_times": 1,
+            "seal_money": 23982701.0,
+            "reason": "功率半导体+AI服务器+车规半导体",
+            "amount_est": 726643320.9000001
+          }
+        ]
+      },
+      {
+        "name": "半导体/存储",
+        "n": 6,
+        "status": "持续发酵",
+        "lead": {
+          "code": "001216",
+          "name": "华瓷股份",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "10:45",
+          "open_times": 1,
+          "seal_money": 41294220.0,
+          "reason": "MLCC粉体+氧化锆微珠+日用陶瓷"
+        },
+        "mid": {
+          "code": "001216",
+          "name": "华瓷股份",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "10:45",
+          "open_times": 1,
+          "seal_money": 41294220.0,
+          "reason": "MLCC粉体+氧化锆微珠+日用陶瓷",
+          "amount_est": 1251230022.68
+        },
+        "followers": [
+          {
+            "code": "001359",
+            "name": "平安电工",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:46",
+            "open_times": 1,
+            "seal_money": 8789939.4,
+            "reason": "电子布+PCB概念+泰国建厂"
+          },
+          {
+            "code": "600745",
+            "name": "*ST闻泰",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:40",
+            "open_times": 1,
+            "seal_money": 23982701.0,
+            "reason": "功率半导体+AI服务器+车规半导体"
+          },
+          {
+            "code": "603713",
+            "name": "密尔克卫",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:32",
+            "open_times": 0,
+            "seal_money": 61620504.0,
+            "reason": "三季报增长+半导体物流+化工供应链"
+          },
+          {
+            "code": "001298",
+            "name": "好上好",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:46",
+            "open_times": 0,
+            "seal_money": 104794942.0,
+            "reason": "存储芯片+半导体分销+人形机器人"
+          }
+        ],
+        "trend": [
+          5,
+          8,
+          3,
+          2,
+          0,
+          6
+        ],
+        "trend_dates": [
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "stocks": [
+          {
+            "code": "603933",
+            "name": "睿能科技",
+            "is_st": false,
+            "boards": 2,
+            "boards_text": "2连板",
+            "limit_up_time": "09:25",
+            "open_times": 0,
+            "seal_money": 98828654.0,
+            "reason": "人形机器人+工业自动化+存储分销",
+            "amount_est": 85692531.66000001
+          },
+          {
+            "code": "001216",
+            "name": "华瓷股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:45",
+            "open_times": 1,
+            "seal_money": 41294220.0,
+            "reason": "MLCC粉体+氧化锆微珠+日用陶瓷",
+            "amount_est": 1251230022.68
+          },
+          {
+            "code": "001298",
+            "name": "好上好",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "10:46",
+            "open_times": 0,
+            "seal_money": 104794942.0,
+            "reason": "存储芯片+半导体分销+人形机器人",
+            "amount_est": 380500403.36
+          },
+          {
+            "code": "603713",
+            "name": "密尔克卫",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:32",
+            "open_times": 0,
+            "seal_money": 61620504.0,
+            "reason": "三季报增长+半导体物流+化工供应链",
+            "amount_est": 282035993.58
+          },
+          {
+            "code": "600745",
+            "name": "*ST闻泰",
+            "is_st": true,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:40",
+            "open_times": 1,
+            "seal_money": 23982701.0,
+            "reason": "功率半导体+AI服务器+车规半导体",
+            "amount_est": 726643320.9000001
+          },
+          {
+            "code": "001359",
+            "name": "平安电工",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:46",
+            "open_times": 1,
+            "seal_money": 8789939.4,
+            "reason": "电子布+PCB概念+泰国建厂",
+            "amount_est": 344414006.64
+          }
+        ]
+      },
+      {
+        "name": "并购重组/控制权",
+        "n": 4,
+        "status": "持续发酵",
+        "lead": {
+          "code": "002077",
+          "name": "大港股份",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "09:48",
+          "open_times": 2,
+          "seal_money": 59370996.0,
+          "reason": "集成电路测试+股权转让议案+半年报增长"
+        },
+        "mid": {
+          "code": "601519",
+          "name": "大智慧",
+          "is_st": false,
+          "boards": 1,
+          "boards_text": "首板",
+          "limit_up_time": "13:08",
+          "open_times": 1,
+          "seal_money": 118748725.0,
+          "reason": "互联网金融+AI投研+并购重组",
+          "amount_est": 1141466835.0
+        },
+        "followers": [
+          {
+            "code": "002931",
+            "name": "锋龙股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 0,
+            "seal_money": 25616070.0,
+            "reason": "机器人概念+优必选入主+机电组件+电控产品"
+          },
+          {
+            "code": "300561",
+            "name": "汇金科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:07",
+            "open_times": 9,
+            "seal_money": 15023642.0,
+            "reason": "金融科技+人工智能+股权转让"
+          }
+        ],
+        "trend": [
+          5,
+          1,
+          4,
+          3,
+          1,
+          4
+        ],
+        "trend_dates": [
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "stocks": [
+          {
+            "code": "002077",
+            "name": "大港股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "09:48",
+            "open_times": 2,
+            "seal_money": 59370996.0,
+            "reason": "集成电路测试+股权转让议案+半年报增长",
+            "amount_est": 813956078.6399999
+          },
+          {
+            "code": "300561",
+            "name": "汇金科技",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:07",
+            "open_times": 9,
+            "seal_money": 15023642.0,
+            "reason": "金融科技+人工智能+股权转让",
+            "amount_est": 735128862.0
+          },
+          {
+            "code": "601519",
+            "name": "大智慧",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "13:08",
+            "open_times": 1,
+            "seal_money": 118748725.0,
+            "reason": "互联网金融+AI投研+并购重组",
+            "amount_est": 1141466835.0
+          },
+          {
+            "code": "002931",
+            "name": "锋龙股份",
+            "is_st": false,
+            "boards": 1,
+            "boards_text": "首板",
+            "limit_up_time": "14:16",
+            "open_times": 0,
+            "seal_money": 25616070.0,
+            "reason": "机器人概念+优必选入主+机电组件+电控产品",
+            "amount_est": 375585292.44000006
+          }
+        ]
+      }
+    ],
+    "distribution": [
+      {
+        "name": "机器人",
+        "n": 45
+      },
+      {
+        "name": "AI应用",
+        "n": 8
+      },
+      {
+        "name": "算力/液冷/光模块",
+        "n": 7
+      },
+      {
+        "name": "半导体/存储",
+        "n": 6
+      },
+      {
+        "name": "并购重组/控制权",
+        "n": 4
+      },
+      {
+        "name": "军工",
+        "n": 3
+      },
+      {
+        "name": "固态电池/锂电",
+        "n": 2
+      },
+      {
+        "name": "光伏",
+        "n": 2
+      },
+      {
+        "name": "电力/电网",
+        "n": 2
+      },
+      {
+        "name": "地产/城市更新",
+        "n": 1
+      }
+    ],
+    "notes": [
+      "主看仍记机器人，今天的含金量不在 6 板的板型，而在中军和中位票是否真的在买。大业、海洋王到了 6 板，但都是午后才封。更值得写的是：宇树科技（科创，不进观察名单）低开 3.46% 后 14:15 封住 20% 涨停，收盘封单 4.04 亿全场最厚，成交日 K 约 52.73 亿；它不在东财 tick 宇宙里，没有 tick-flow，不能编造，榜面净买 2.11 亿、机构净买 2.41 亿。歌尔股份首板，封单 3.32 亿，tick 净买 1.21 亿，榜面净买 4.51 亿，方向同向。福莱新材昨天断板后今天 13:37 封住，tick 继续净买 1.22 亿。宁波东力 +7.11%、浙江荣泰 +5.32%，tick 仍是小净买，但没封。大洋电机 +7.46% 没封，tick 净买 4.90 亿。钱在中军和掉下来的中位票里更愿意加仓，6 板本身只是小净买。",
+      "上海九百是独立的零售一字 3 板，不并进机器人主线；传媒和数据要素没有重新成为主线。慈文传媒被写成「11 天 7 板」，本页按连续口径只是首板，tick 净卖 1.61 亿。新华传媒收 +4.33%，tick 净买 2.55 亿，昨天跌停后的反弹，没有再封。天娱数科早盘就封住，封单 3.27 亿，榜面净买 4.89 亿（游资 4.02 亿），tick 却净卖 13.07 亿，是今天涨停池里卖得最多的——榜面和连续竞价完全对着干。",
+      "低空和昨天的亏钱票，今天是收敛，不是新主线。东安动力低开 9.93% 后收 -6.10%，tick 净买 0.47 亿，没有继续核到跌停。保隆科技 +3.83%，万丰奥威 -3.77%。吉大正元低开跌停后收 -2.74%，tick 净买 1.39 亿，榜面净买 1.04 亿，方向同向。读者传媒仍收 -6.99%。三峡按独立重组写，打开之后有大额承接，但不并进主线。"
+    ]
+  },
+  "loss": {
+    "src": "跌停池：扶摇；“异动关键词”来自扶摇/同花顺异动解读（AI 汇总公开信息，以公告为准）。",
+    "limit_downs": [
+      {
+        "name": "奥士康",
+        "code": "002913",
+        "pct": -10.005,
+        "first_limit_time": "09:49",
+        "turnover_ratio_pct": 5.174,
+        "keywords": [
+          "元件板块下跌",
+          "PCB概念下跌"
+        ]
+      },
+      {
+        "name": "*ST卓然",
+        "code": "688121",
+        "pct": -20.3704,
+        "first_limit_time": "09:25",
+        "turnover_ratio_pct": 9.718,
+        "keywords": [
+          "市值低于3亿元",
+          "重大违法强制退市提示",
+          "债务逾期及账户冻结"
+        ]
+      },
+      {
+        "name": "闽发铝业",
+        "code": "002578",
+        "pct": -9.9174,
+        "first_limit_time": "11:00",
+        "turnover_ratio_pct": 5.7711,
+        "keywords": [
+          "市场走弱",
+          "光伏概念板块下跌"
+        ]
+      },
+      {
+        "name": "郑中设计",
+        "code": "002811",
+        "pct": -9.9797,
+        "first_limit_time": "10:30",
+        "turnover_ratio_pct": 7.4089,
+        "keywords": [
+          "此前涨幅较大",
+          "芯片概念板块下跌"
+        ]
+      },
+      {
+        "name": "哈空调",
+        "code": "600202",
+        "pct": -9.9511,
+        "first_limit_time": "09:30",
+        "turnover_ratio_pct": 9.3103,
+        "keywords": [
+          "制冷空调设备板块下跌",
+          "此前涨幅较大",
+          "上半年亏损扩大"
+        ]
+      },
+      {
+        "name": "通达创智",
+        "code": "001368",
+        "pct": -10.0124,
+        "first_limit_time": "09:37",
+        "turnover_ratio_pct": 1.9883,
+        "keywords": [
+          "冰雪产业板块下跌",
+          "市场走弱"
+        ]
+      },
+      {
+        "name": "新亚制程",
+        "code": "002388",
+        "pct": -10.0122,
+        "first_limit_time": "09:25",
+        "turnover_ratio_pct": 1.5742,
+        "keywords": [
+          "昨日复牌上演“天地板”",
+          "拟收购启元气体控股权"
+        ]
+      }
+    ],
+    "yesterday_returns": [
+      10.00119918455451,
+      9.968790159720943,
+      19.999999999999996,
+      7.635467980295574,
+      3.1207598371777445,
+      10.013764624913968,
+      4.876349703935912,
+      2.475458813486986,
+      -4.587581093605186,
+      -3.5642570281124497,
+      9.978991596638664,
+      -3.7674919268030127,
+      -8.687943262411357,
+      9.993108201240531,
+      9.975062344139651,
+      9.991079393398739,
+      -6.306306306306297,
+      9.990749306197966,
+      10.000000000000009,
+      0.42149631190726566,
+      -7.342657342657343,
+      2.4009603841536498,
+      10.051546391752563,
+      -1.1857707509881354,
+      10.000000000000009,
+      4.545454545454541,
+      7.459474967723434,
+      -9.951060358890707,
+      -6.118546845124284,
+      -4.1666666666666625,
+      2.0648967551622377,
+      10.18181818181818,
+      -7.777777777777772
+    ],
+    "yesterday_worst": [
+      {
+        "name": "哈空调",
+        "code": "600202",
+        "yesterday_text": "2连板",
+        "pct": -9.951060358890707
+      },
+      {
+        "name": "海量数据",
+        "code": "603138",
+        "yesterday_text": "2连板",
+        "pct": -8.687943262411357
+      },
+      {
+        "name": "星光股份",
+        "code": "002076",
+        "yesterday_text": "3连板",
+        "pct": -7.777777777777772
+      },
+      {
+        "name": "出版传媒",
+        "code": "601999",
+        "yesterday_text": "2连板",
+        "pct": -7.342657342657343
+      },
+      {
+        "name": "天洋新材",
+        "code": "603330",
+        "yesterday_text": "2连板",
+        "pct": -6.306306306306297
+      },
+      {
+        "name": "三峡新材",
+        "code": "600293",
+        "yesterday_text": "3连板",
+        "pct": -6.118546845124284
+      },
+      {
+        "name": "沈鼓集团",
+        "code": "601091",
+        "yesterday_text": "首板",
+        "pct": -4.587581093605186
+      },
+      {
+        "name": "阳光照明",
+        "code": "600261",
+        "yesterday_text": "首板",
+        "pct": -4.1666666666666625
+      }
+    ],
+    "big_down": [
+      {
+        "code": "301718",
+        "name": "通则康威",
+        "pct": -11.083710097273581,
+        "amount_est": 1449519434.0000002,
+        "keywords": [],
+        "name_pending": false
+      },
+      {
+        "code": "605058",
+        "name": "澳弘电子",
+        "pct": -8.177641653905043,
+        "amount_est": 1277852769.84,
+        "keywords": [
+          "元件板块下跌",
+          "此前涨幅较大"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "002913",
+        "name": "奥士康",
+        "pct": -10.004959087527887,
+        "amount_est": 1147179041.19,
+        "keywords": [
+          "元件板块下跌",
+          "PCB概念下跌"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "000993",
+        "name": "闽东电力",
+        "pct": -7.764876632801155,
+        "amount_est": 1087280394.41,
+        "keywords": [
+          "电力板块下跌",
+          "来水减少、水电量下降"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "002076",
+        "name": "星光股份",
+        "pct": -7.777777777777772,
+        "amount_est": 939863552.58,
+        "keywords": [
+          "网络安全板块下跌",
+          "数据要素板块下跌",
+          "此前涨幅较大"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "603138",
+        "name": "海量数据",
+        "pct": -8.687943262411357,
+        "amount_est": 823423045.5,
+        "keywords": [
+          "此前涨幅较大",
+          "数据要素及软件开发板块下跌"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "600241",
+        "name": "时代万恒",
+        "pct": -7.978241160471433,
+        "amount_est": 804950236.3000001,
+        "keywords": [
+          "电池板块走弱",
+          "前三季度亏损",
+          "此前涨幅较大"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "300516",
+        "name": "久之洋",
+        "pct": -8.150304313310397,
+        "amount_est": 751988436.03,
+        "keywords": [
+          "商业航天板块下跌",
+          "军工板块下跌"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "300756",
+        "name": "金马游乐",
+        "pct": -12.261380323054327,
+        "amount_est": 730444897.1999999,
+        "keywords": [
+          "人形机器人板块下跌"
+        ],
+        "name_pending": false
+      },
+      {
+        "code": "601999",
+        "name": "出版传媒",
+        "pct": -7.342657342657343,
+        "amount_est": 646579104.75,
+        "keywords": [
+          "文化传媒板块下跌",
+          "此前涨幅较大"
+        ],
+        "name_pending": false
+      }
+    ],
+    "notes": [
+      "跌停从 55 只掉到 7 只，亏钱效应明显收敛，但昨天的中段连板今天仍在吐。扶摇跌停池 7 只，其中 1 只是 *ST卓然，非 ST 6 只：奥士康、闽发铝业、郑中设计、哈空调、通达创智、新亚制程。哈空调是昨天的 2 板，今天跌停。亏钱更集中在没晋级的连板：星光 -7.78%，海量 -8.69%，出版 -7.34%，天洋 -6.31%，三峡 -6.12%。",
+      "昨日涨停今天平均 +3.38%，首板平均 +5.33%，但连板平均 -1.80%，是「首板和大高度赚钱、中段连板继续亏」。9 只昨日连板里，只有大业、海洋王、上海九百收红，其余 6 只都绿。昨日 24 只非 ST 首板，19 涨 5 跌。溢价转正，主要是被首板和两只 6 板抬起来的，不能理解成连板梯队已经安全。",
+      "放量翻红，是今天和昨天最大的差别。昨天是放量杀跌、跌停 55 只；今天成交继续放到约 1.96 万亿，但上涨家数回到 4195 只，中位数转正。亏钱效应从「中段梯子塌掉、指数被成长权重按在地板上」，变成「早盘还在杀、午后一致性修复」。修复来得很快，不等于高位票的板型已经变好。"
+    ]
+  },
+  "lhb": {
+    "src": "来源：扶摇龙虎榜日榜（同花顺口径，非交易所全量；只取“1日”榜）。净买=该股上榜席位买入−卖出；机构/游资净额为扶摇分类。",
+    "count": 63,
+    "net_buy_top": [
+      {
+        "name": "天娱数科",
+        "code": "002354",
+        "pct": 10.0,
+        "net": 489098145.24,
+        "org_net": 67388870.0,
+        "hot_net": 401981700.95,
+        "tag": "合力买",
+        "themes": [
+          "AI应用",
+          "机器人",
+          "算力/液冷/光模块"
+        ]
+      },
+      {
+        "name": "歌尔股份",
+        "code": "002241",
+        "pct": 9.9952,
+        "net": 451311719.35,
+        "org_net": 21658984.13,
+        "hot_net": 197249405.62,
+        "tag": "合力买",
+        "themes": [
+          "光伏",
+          "机器人"
+        ]
+      },
+      {
+        "name": "兆威机电",
+        "code": "003021",
+        "pct": 10.0012,
+        "net": 214185095.74,
+        "org_net": 39471427.02,
+        "hot_net": 159408355.03,
+        "tag": "合力买",
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "宇树科技",
+        "code": "688836",
+        "pct": 20.0,
+        "net": 211262158.14,
+        "org_net": 241488697.07,
+        "hot_net": 141774122.74,
+        "tag": "合力买",
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "粤芯半导体",
+        "code": "301660",
+        "pct": 20.0143,
+        "net": 194585184.2,
+        "org_net": 3881732.31,
+        "hot_net": -83165730.11,
+        "tag": "分歧",
+        "themes": [
+          "光伏"
+        ]
+      },
+      {
+        "name": "利亚德",
+        "code": "300296",
+        "pct": 20.0,
+        "net": 175730362.44,
+        "org_net": -60281087.95,
+        "hot_net": 144126221.77,
+        "tag": "分歧",
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "埃斯顿",
+        "code": "002747",
+        "pct": 9.9887,
+        "net": 171837722.89,
+        "org_net": 9452741.39,
+        "hot_net": 70155359.0,
+        "tag": "合力买",
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "绿盟科技",
+        "code": "300369",
+        "pct": 19.9795,
+        "net": 166375664.65,
+        "org_net": 35552761.72,
+        "hot_net": 66637380.98,
+        "tag": "合力买",
+        "themes": []
+      },
+      {
+        "name": "慈星股份",
+        "code": "300307",
+        "pct": 20.0,
+        "net": 158944277.52,
+        "org_net": -6711089.68,
+        "hot_net": 112275479.0,
+        "tag": "分歧",
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "宁波东力",
+        "code": "002164",
+        "pct": 7.1084,
+        "net": 125454725.71,
+        "org_net": 51494994.67,
+        "hot_net": 39899393.04,
+        "tag": "合力买",
+        "themes": [
+          "机器人"
+        ]
+      }
+    ],
+    "net_sell_top": [
+      {
+        "name": "索辰科技",
+        "code": "688507",
+        "pct": 14.0117,
+        "net": -302841929.34,
+        "org_net": null,
+        "hot_net": -2619617.49,
+        "tag": null,
+        "themes": [
+          "机器人",
+          "商业航天"
+        ]
+      },
+      {
+        "name": "风语筑",
+        "code": "603466",
+        "pct": 10.037500000000001,
+        "net": -126841223.73,
+        "org_net": null,
+        "hot_net": -84006714.71,
+        "tag": null,
+        "themes": [
+          "机器人"
+        ]
+      },
+      {
+        "name": "沈鼓集团",
+        "code": "601091",
+        "pct": -4.5876,
+        "net": -118722532.29,
+        "org_net": null,
+        "hot_net": -42624761.94,
+        "tag": null,
+        "themes": [
+          "油气/天然气/氢能"
+        ]
+      },
+      {
+        "name": "冰山冷热",
+        "code": "000530",
+        "pct": 0.4215,
+        "net": -101064571.62,
+        "org_net": -37006610.85,
+        "hot_net": 8005773.37,
+        "tag": "分歧",
+        "themes": []
+      },
+      {
+        "name": "金健米业",
+        "code": "600127",
+        "pct": -6.449000000000001,
+        "net": -68058206.1,
+        "org_net": null,
+        "hot_net": 7789311.31,
+        "tag": null,
+        "themes": [
+          "大消费"
+        ]
+      }
+    ],
+    "theme_agg": [
+      {
+        "theme": "机器人",
+        "up_net": 1534539049.43,
+        "up_n": 17,
+        "down_net": 0.0,
+        "down_n": 0
+      },
+      {
+        "theme": "光伏",
+        "up_net": 645896903.55,
+        "up_n": 2,
+        "down_net": -55955191.0,
+        "down_n": 1
+      },
+      {
+        "theme": "AI应用",
+        "up_net": 568326640.73,
+        "up_n": 3,
+        "down_net": -52807384.11,
+        "down_n": 2
+      },
+      {
+        "theme": "算力/液冷/光模块",
+        "up_net": 447914599.97,
+        "up_n": 2,
+        "down_net": -31982316.99,
+        "down_n": 2
+      },
+      {
+        "theme": "(未归类)",
+        "up_net": 139443741.44000003,
+        "up_n": 15,
+        "down_net": 9101105.129999997,
+        "down_n": 9
+      },
+      {
+        "theme": "半导体/存储",
+        "up_net": 81577451.72,
+        "up_n": 2,
+        "down_net": -13732071.57,
+        "down_n": 3
+      },
+      {
+        "theme": "并购重组/控制权",
+        "up_net": 0.0,
+        "up_n": 0,
+        "down_net": 28110770.22,
+        "down_n": 1
+      },
+      {
+        "theme": "军工",
+        "up_net": 18257962.74,
+        "up_n": 2,
+        "down_net": 0.0,
+        "down_n": 0
+      },
+      {
+        "theme": "固态电池/锂电",
+        "up_net": 0.0,
+        "up_n": 0,
+        "down_net": 1630623.02,
+        "down_n": 1
+      },
+      {
+        "theme": "ST/摘帽",
+        "up_net": -392657.4,
+        "up_n": 1,
+        "down_net": -74834.59,
+        "down_n": 1
+      },
+      {
+        "theme": "核电/核聚变",
+        "up_net": 0.0,
+        "up_n": 0,
+        "down_net": -62270257.01,
+        "down_n": 1
+      },
+      {
+        "theme": "大消费",
+        "up_net": 0.0,
+        "up_n": 0,
+        "down_net": -68058206.1,
+        "down_n": 1
+      },
+      {
+        "theme": "油气/天然气/氢能",
+        "up_net": 0.0,
+        "up_n": 0,
+        "down_net": -118722532.29,
+        "down_n": 1
+      },
+      {
+        "theme": "商业航天",
+        "up_net": -302841929.34,
+        "up_n": 1,
+        "down_net": -5466076.92,
+        "down_n": 1
+      }
+    ],
+    "org_buy_top": [
+      {
+        "name": "宇树科技",
+        "code": "688836",
+        "pct": 20.0,
+        "org_net": 241488697.07,
+        "buy_num": 1,
+        "sell_num": 0
+      },
+      {
+        "name": "奥普特",
+        "code": "688686",
+        "pct": 19.9969,
+        "org_net": 94345130.28,
+        "buy_num": 3,
+        "sell_num": 1
+      },
+      {
+        "name": "天娱数科",
+        "code": "002354",
+        "pct": 10.0,
+        "org_net": 67388870.0,
+        "buy_num": 1,
+        "sell_num": 1
+      },
+      {
+        "name": "海天瑞声",
+        "code": "688787",
+        "pct": 20.0,
+        "org_net": 58357340.23,
+        "buy_num": 2,
+        "sell_num": 1
+      },
+      {
+        "name": "华瓷股份",
+        "code": "001216",
+        "pct": 10.0156,
+        "org_net": 53681208.74,
+        "buy_num": 3,
+        "sell_num": 1
+      }
+    ],
+    "org_sell_top": [
+      {
+        "name": "澳弘电子",
+        "code": "605058",
+        "pct": -8.1776,
+        "org_net": -79949677.0,
+        "buy_num": 0,
+        "sell_num": 1
+      },
+      {
+        "name": "奥士康",
+        "code": "002913",
+        "pct": -10.005,
+        "org_net": -75178489.0,
+        "buy_num": 2,
+        "sell_num": 3
+      },
+      {
+        "name": "利亚德",
+        "code": "300296",
+        "pct": 20.0,
+        "org_net": -60281087.95,
+        "buy_num": 0,
+        "sell_num": 3
+      },
+      {
+        "name": "晶丰明源",
+        "code": "688368",
+        "pct": 20.0,
+        "org_net": -50011534.52,
+        "buy_num": 2,
+        "sell_num": 2
+      },
+      {
+        "name": "南矿集团",
+        "code": "001360",
+        "pct": -3.7675,
+        "org_net": -49698559.64,
+        "buy_num": 1,
+        "sell_num": 5
+      }
+    ],
+    "hot_money": [
+      {
+        "name": "佛山系",
+        "net": 206343698.0,
+        "stocks": [
+          {
+            "name": "天娱数科",
+            "code": "002354",
+            "net": 206343698.0
+          }
+        ]
+      },
+      {
+        "name": "成都系",
+        "net": 181440990.0,
+        "stocks": [
+          {
+            "name": "天娱数科",
+            "code": "002354",
+            "net": 84110644.0
+          },
+          {
+            "name": "慈星股份",
+            "code": "300307",
+            "net": 60442990.0
+          },
+          {
+            "name": "常青转债",
+            "code": "113711",
+            "net": -3855760.0
+          },
+          {
+            "name": "元道退",
+            "code": "301139",
+            "net": -534604.0
+          },
+          {
+            "name": "福新转债",
+            "code": "111012",
+            "net": -54190.0
+          }
+        ]
+      },
+      {
+        "name": "玉兰路",
+        "net": -97297724.06,
+        "stocks": [
+          {
+            "name": "粤芯半导体",
+            "code": "301660",
+            "net": -146300587.9
+          },
+          {
+            "name": "华依科技",
+            "code": "688071",
+            "net": 30838008.88
+          },
+          {
+            "name": "凡拓数创",
+            "code": "301313",
+            "net": 29560872.96
+          },
+          {
+            "name": "时代万恒",
+            "code": "600241",
+            "net": -11396018.0
+          }
+        ]
+      },
+      {
+        "name": "小鳄鱼",
+        "net": 94250007.0,
+        "stocks": [
+          {
+            "name": "歌尔股份",
+            "code": "002241",
+            "net": 94250007.0
+          }
+        ]
+      },
+      {
+        "name": "温州帮",
+        "net": 86559193.89,
+        "stocks": [
+          {
+            "name": "晶丰明源",
+            "code": "688368",
+            "net": 18062059.39
+          },
+          {
+            "name": "曙光股份",
+            "code": "600303",
+            "net": 10757792.0
+          },
+          {
+            "name": "众诚科技",
+            "code": "920207",
+            "net": -10578060.97
+          },
+          {
+            "name": "万里石",
+            "code": "002785",
+            "net": -9389990.0
+          },
+          {
+            "name": "海欣股份",
+            "code": "600851",
+            "net": -6742121.9
+          },
+          {
+            "name": "*ST国中",
+            "code": "600187",
+            "net": -4264952.0
+          }
+        ]
+      },
+      {
+        "name": "方新侠",
+        "net": 83878360.0,
+        "stocks": [
+          {
+            "name": "利亚德",
+            "code": "300296",
+            "net": 83878360.0
+          }
+        ]
+      },
+      {
+        "name": "山东帮",
+        "net": -55518119.01,
+        "stocks": [
+          {
+            "name": "南方乳业",
+            "code": "920196",
+            "net": 2775806.99
+          }
+        ]
+      },
+      {
+        "name": "上塘路",
+        "net": 43791939.1,
+        "stocks": [
+          {
+            "name": "索辰科技",
+            "code": "688507",
+            "net": 43791939.1
+          }
+        ]
+      },
+      {
+        "name": "中山东路",
+        "net": 41533050.45,
+        "stocks": [
+          {
+            "name": "天娱数科",
+            "code": "002354",
+            "net": 128532295.95
+          },
+          {
+            "name": "华瓷股份",
+            "code": "001216",
+            "net": -41980365.0
+          },
+          {
+            "name": "沈鼓集团",
+            "code": "601091",
+            "net": -33096788.5
+          },
+          {
+            "name": "星光股份",
+            "code": "002076",
+            "net": -19567994.0
+          }
+        ]
+      },
+      {
+        "name": "思明南路",
+        "net": -36102853.11,
+        "stocks": [
+          {
+            "name": "沈鼓集团",
+            "code": "601091",
+            "net": -42828271.11
+          }
+        ]
+      },
+      {
+        "name": "低位挖掘",
+        "net": 26981104.1,
+        "stocks": [
+          {
+            "name": "哈空调",
+            "code": "600202",
+            "net": 10833516.0
+          },
+          {
+            "name": "众诚科技",
+            "code": "920207",
+            "net": 5870489.3
+          },
+          {
+            "name": "宇特光电",
+            "code": "920157",
+            "net": -4911255.2
+          }
+        ]
+      },
+      {
+        "name": "宁波桑田路",
+        "net": -20473588.0,
+        "stocks": [
+          {
+            "name": "华瓷股份",
+            "code": "001216",
+            "net": -49841537.0
+          },
+          {
+            "name": "星光股份",
+            "code": "002076",
+            "net": 29367949.0
+          }
+        ]
+      },
+      {
+        "name": "独股一剑",
+        "net": 16163108.9,
+        "stocks": [
+          {
+            "name": "沈鼓集团",
+            "code": "601091",
+            "net": 16163108.9
+          }
+        ]
+      },
+      {
+        "name": "湖州劳动路",
+        "net": -7844518.0,
+        "stocks": [
+          {
+            "name": "哈空调",
+            "code": "600202",
+            "net": -7844518.0
+          }
+        ]
+      },
+      {
+        "name": "湖里大道",
+        "net": 6082188.0,
+        "stocks": [
+          {
+            "name": "赛福天",
+            "code": "603028",
+            "net": 6082188.0
+          }
+        ]
+      },
+      {
+        "name": "涅盘重升",
+        "net": -5416822.33,
+        "stocks": [
+          {
+            "name": "文峰光电",
+            "code": "920296",
+            "net": -5416822.33
+          }
+        ]
+      },
+      {
+        "name": "杭州帮",
+        "net": 2709595.0,
+        "stocks": [
+          {
+            "name": "长鸿高科",
+            "code": "605008",
+            "net": 2709595.0
+          }
+        ]
+      },
+      {
+        "name": "T王",
+        "net": -2674998.06,
+        "stocks": [
+          {
+            "name": "粤芯半导体",
+            "code": "301660",
+            "net": -37803288.21
+          },
+          {
+            "name": "海量数据",
+            "code": "603138",
+            "net": 27277111.61
+          },
+          {
+            "name": "金健米业",
+            "code": "600127",
+            "net": -19472245.91
+          },
+          {
+            "name": "沈鼓集团",
+            "code": "601091",
+            "net": 17137188.77
+          },
+          {
+            "name": "天娱数科",
+            "code": "002354",
+            "net": -17004937.0
+          },
+          {
+            "name": "大业股份",
+            "code": "603278",
+            "net": 16488172.0
+          }
+        ]
+      },
+      {
+        "name": "落升(江南神鹰)",
+        "net": 1725582.6,
+        "stocks": [
+          {
+            "name": "*ST国中",
+            "code": "600187",
+            "net": 1725582.6
+          }
+        ]
+      },
+      {
+        "name": "金田路",
+        "net": 769120.0,
+        "stocks": [
+          {
+            "name": "常青转债",
+            "code": "113711",
+            "net": 769120.0
+          }
+        ]
+      },
+      {
+        "name": "炒股养家",
+        "net": -163466.0,
+        "stocks": [
+          {
+            "name": "萃华退",
+            "code": "002731",
+            "net": -163466.0
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "必须先看天娱数科：榜面净买 4.89 亿，游资净买 4.02 亿，看起来像合力；tick 却净卖 13.07 亿，是 75 只有 tick 的涨停里卖得最多的。它早盘封住，收盘封单 3.27 亿也厚。只看龙虎榜，会把它写成今天最强的资金票；有 tick 以后，结论正好相反。前五席位不是全场，这是今天校正龙虎榜的主例。",
+      "两只 6 板也是反向：榜面在卖，tick 在买。大业股份 1 日榜净卖 0.56 亿，tick 净买 1.03 亿。海洋王榜面小净卖 0.16 亿（机构净卖 0.15 亿），tick 净买 1.09 亿。这和昨天海洋王「榜面净买、tick 大额净卖」正好翻过来。兆威机电榜面净买 2.14 亿（游资 1.59 亿），tick 小净卖 0.43 亿，也是反向。三峡新材打开后两边都是买，但 tick 净买 4.69 亿，远大于榜面的 0.28 亿。",
+      "同向的例子：歌尔股份榜面净买 4.51 亿，tick 净买 1.21 亿；吉大正元两边都是净买；星光股份两边都接近走平略净卖。上海九百一字不上 1 日榜，tick 净卖约等于成交，不要当成出货。宇树科技不在 tick 宇宙里，榜面净买 2.11 亿、机构净买 2.41 亿，只能写榜面，不能补 tick。当日 1 日榜去重 66 只，其中含 3 只转债，另有 REIT，与普通股票榜不是同一名单。游资外号是扶摇归类，不代表真实身份。"
+    ],
+    "count_raw": 63
+  },
+  "next": {
+    "src": "只用当天收盘前能知道的信息；观察名单剔除科创/创业板20cm/北交/ST（市场统计不剔除）。",
+    "points": [
+      "1）两只 6 板会不会留下：它们都到了 6 板，tick 也转成净买，但都不是一字。大业是 13:09 才封的准地天回封，海洋王盘中触及跌停、14:25 才封，收盘封单仅 0.03 亿。若其中一只打开甚至大面，6 板会迅速消失，高度也会掉下来。",
+      "2）上海九百这只一字 3 板能不能独立走远：它是零售，不是机器人。竞价封死、全天一字，收盘封单 1.09 亿。若它也断，今天就只剩下 6 板这一层高度。",
+      "3）兆威机电这类封单更厚的 2 板，2 进 3 质量如何：1 进 2 已经回到 37.5%，赛福天、睿能是一字，兆威封单 1.26 亿但开板次数有冲突、tick 小净卖。若 2 进 3 明显变差，下午铺开的 2 板就是一日修复；若兆威、赛福天能留下，主线才算接上中段。",
+      "4）宇树科技和中位回流能不能持续：宇树是科创中军，今天第一次封 20% 涨停，但没有 tick 可核。福莱已经封上，东力、荣泰收红未封。若中军打开、中位票转绿，修复就只是一天。",
+      "5）广度和连板溢价会不会一起回来：今天上涨家数和封板率都修好了，但连板溢价还是负的。若下周初广度还在、连板平均也转正，才谈得上从修复走到发酵；若只是高开低走、跌停重新抬起来，今天就是退潮里的深 V 反抽。"
+    ],
+    "watch": [
+      {
+        "code": "603278",
+        "name": "大业股份",
+        "why": "机器人 6 板，13:09 才封，不是一字；tick 净买 1.03 亿，榜面净卖 0.56 亿"
+      },
+      {
+        "code": "002724",
+        "name": "海洋王",
+        "why": "6 板盘中触及跌停价后 14:25 才封，封单仅 0.03 亿；tick 净买 1.09 亿，榜面小净卖"
+      },
+      {
+        "code": "600838",
+        "name": "上海九百",
+        "why": "零售一字 3 板，收盘封单 1.09 亿，不并进主线；tick 按一字口径看"
+      },
+      {
+        "code": "003021",
+        "name": "兆威机电",
+        "why": "机器人 2 板，收盘封单 1.26 亿；开板 5 或 11 次待核，榜面净买 2.14 亿，tick 小净卖 0.43 亿"
+      },
+      {
+        "code": "603028",
+        "name": "赛福天",
+        "why": "机器人腱绳一字 2 板，收盘封单 1.13 亿，板型在这批 2 板里更干净"
+      },
+      {
+        "code": "603933",
+        "name": "睿能科技",
+        "why": "机器人/存储一字 2 板，收盘封单 0.99 亿"
+      },
+      {
+        "code": "605488",
+        "name": "福莱新材",
+        "why": "昨断板今 13:37 封住首板，tick 净买 1.22 亿，中位回流是否持续"
+      },
+      {
+        "code": "002241",
+        "name": "歌尔股份",
+        "why": "机器人中军首板，封单 3.32 亿，tick 净买 1.21 亿，榜面净买 4.51 亿"
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "why": "机器人轴承 2 板，低开后封住，开板次数 6 或 18 次待核"
+      },
+      {
+        "code": "002354",
+        "name": "天娱数科",
+        "why": "首板封单 3.27 亿，榜面净买 4.89 亿，tick 净卖 13.07 亿，方向完全相反"
+      },
+      {
+        "code": "600293",
+        "name": "三峡新材",
+        "why": "重组 3 进 4 失败，竞价封死后打开，收 -6.12%；tick 净买 4.69 亿"
+      }
+    ]
+  },
+  "post": {
+    "is_hindsight": true,
+    "warning": "以下为事后数据（复盘当天并不知道），用来检验上面的判断对不对。",
+    "days": [
+      {
+        "date": "2026-10-26",
+        "index_pct": 0.19076109340789849,
+        "lu_nonst": 55,
+        "ld": 27,
+        "seal_rate": 0.7051282051282052,
+        "height": 4,
+        "prem": 2.324182283626837,
+        "turnover": 1623215337000.0
+      },
+      {
+        "date": "2026-10-27",
+        "index_pct": -1.331162508924899,
+        "lu_nonst": 41,
+        "ld": 23,
+        "seal_rate": 0.5942028985507246,
+        "height": 5,
+        "prem": 1.2591737650979038,
+        "turnover": 1473017062500.0
+      },
+      {
+        "date": "2026-10-28",
+        "index_pct": 0.9091905819148538,
+        "lu_nonst": 69,
+        "ld": 6,
+        "seal_rate": 0.5,
+        "height": 5,
+        "prem": 2.367147797030139,
+        "turnover": 1642335849000.0
+      },
+      {
+        "date": "2026-10-29",
+        "index_pct": -0.8159783999326375,
+        "lu_nonst": 39,
+        "ld": 42,
+        "seal_rate": 0.609375,
+        "height": 4,
+        "prem": -0.7051281931152792,
+        "turnover": 1571004696000.0
+      },
+      {
+        "date": "2026-10-30",
+        "index_pct": -1.435328076945197,
+        "lu_nonst": 47,
+        "ld": 86,
+        "seal_rate": 0.6025641025641025,
+        "height": 5,
+        "prem": -0.6698047978128161,
+        "turnover": 1687970914000.0
+      }
+    ],
+    "theme_follow": [
+      {
+        "name": "机器人",
+        "counts": [
+          45,
+          28,
+          15,
+          35,
+          7,
+          7
+        ],
+        "dates": [
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ]
+      },
+      {
+        "name": "AI应用",
+        "counts": [
+          8,
+          5,
+          2,
+          4,
+          2,
+          0
+        ],
+        "dates": [
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ]
+      },
+      {
+        "name": "算力/液冷/光模块",
+        "counts": [
+          7,
+          4,
+          4,
+          8,
+          3,
+          4
+        ],
+        "dates": [
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ]
+      },
+      {
+        "name": "半导体/存储",
+        "counts": [
+          6,
+          1,
+          3,
+          14,
+          2,
+          5
+        ],
+        "dates": [
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ]
+      },
+      {
+        "name": "并购重组/控制权",
+        "counts": [
+          4,
+          5,
+          2,
+          6,
+          2,
+          2
+        ],
+        "dates": [
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ]
+      }
+    ],
+    "watch_follow": [
+      {
+        "name": "大业股份",
+        "code": "603278",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 8.08270676691729,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 0.8695652173912993,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 2.9885057471264576,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -0.22321428571430157,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": 9.172259507829983,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": 22.30576441102756,
+          "high_pct": 23.245614035087712,
+          "low_pct": 4.010025062656641,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "海洋王",
+        "code": "002724",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": -3.48742903487429,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 9.999999999999986,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 2.3682200152788324,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": 1.044776119402968,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": 8.714918759231916,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": 19.383617193836166,
+          "high_pct": 20.032441200324413,
+          "low_pct": -9.97566909975669,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "上海九百",
+        "code": "600838",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 9.999999999999986,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 10.000000000000009,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 5.108940646130722,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -2.573266619013581,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -9.977989728539994,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": 11.545454545454547,
+          "high_pct": 35.363636363636374,
+          "low_pct": 6.181818181818177,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "兆威机电",
+        "code": "003021",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 4.938406192085476,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": -3.9060876792021637,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 5.308108108108112,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -3.6238579201314014,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -3.7068598210481363,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -1.4499073367491566,
+          "high_pct": 10.923362040771822,
+          "low_pct": -1.7442494276681653,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "赛福天",
+        "code": "603028",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 9.953161592505877,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 10.010649627263035,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 0.6776379477250849,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -10.000000000000009,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -10.04273504273504,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -1.4051522248243464,
+          "high_pct": 28.805620608899307,
+          "low_pct": -1.4051522248243464,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "睿能科技",
+        "code": "603933",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": -2.7220630372492893,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": -10.014727540500745,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 0.10911074740864724,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -4.468664850136239,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -2.909298345693101,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -18.720152817574032,
+          "high_pct": 9.98089780324738,
+          "low_pct": -18.767908309455585,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "福莱新材",
+        "code": "605488",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 10.013106159895147,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 5.289492494639014,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 10.002262955419772,
+            "status": null,
+            "limit_up": false,
+            "near_limit": true
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -1.9749022834807617,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -1.783840503672618,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": 22.67365661861074,
+          "high_pct": 29.750982961992143,
+          "low_pct": 5.085190039318488,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "歌尔股份",
+        "code": "002241",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 1.7857142857142794,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": -1.7543859649122862,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 0.39198606271777514,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -3.0368763557483747,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -1.7002237136465426,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -4.311846689895482,
+          "high_pct": 3.571428571428581,
+          "low_pct": -4.486062717770045,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "襄阳轴承",
+        "code": "000678",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 9.977324263038545,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 10.034364261168394,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": 9.993753903810099,
+            "status": null,
+            "limit_up": true,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": 6.473594548551964,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -3.5733333333333395,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": 36.65910808767949,
+          "high_pct": 50.11337868480725,
+          "low_pct": 5.139833711262276,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "天娱数科",
+        "code": "002354",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": 1.4943960149439661,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": 1.104294478527601,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": -0.728155339805836,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": 2.2004889975550057,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -10.047846889952151,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -6.351183063511834,
+          "high_pct": 9.96264009962642,
+          "low_pct": -6.351183063511834,
+          "asof": "2026-10-30"
+        }
+      },
+      {
+        "name": "三峡新材",
+        "code": "600293",
+        "days": [
+          {
+            "date": "2026-10-26",
+            "pct": -9.979633401222,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-27",
+            "pct": -3.393665158371051,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-28",
+            "pct": -9.83606557377048,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-29",
+            "pct": -9.870129870129862,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          },
+          {
+            "date": "2026-10-30",
+            "pct": -4.610951008645536,
+            "status": null,
+            "limit_up": false,
+            "near_limit": false
+          }
+        ],
+        "vs_base": {
+          "close_pct": -32.586558044806516,
+          "high_pct": -4.48065173116089,
+          "low_pct": -34.0122199592668,
+          "asof": "2026-10-30"
+        }
+      }
+    ],
+    "notes": [
+      "这一部分是事后看的，复盘当天并不知道。10/24、10/25 是周末，下一交易日是 10/26。",
+      "① 两只 6 板都没有留下，高度掉回 4 板：大业股份 10/26 高开 10.03%，最低 17.01 元，收 +8.08%，没有 6 进 7。海洋王 10/26 低开 9.98%，收 -3.49%。上海九百开盘涨停，开板 1 次后回封，走到 4 板，收盘封单 1.36 亿。三峡新材 10/26 收 -9.98%，接近跌停；星光股份跌停。",
+      "② 2 板没有整体留下，中位回流也只留下一部分：2 进 3 为 6/9，赛福天、多伦科技、正裕工业、襄阳轴承、林州重机、华阳智能（创业板 20cm，观察名单本就剔除）走到 3 板；兆威机电、南方路机、睿能科技没有晋级，兆威收 +4.94%。福莱新材走到 2 板。1 进 2 掉到 8/68，下午铺开的大量首板没有整体走远。",
+      "③ 亏钱票没有在修复日之后全部转好：东安动力 10/26 收 -9.97%，吉大正元收 -9.98%，南矿集团跌停。新华传媒收 +2.17%。天娱数科高开后收 +1.49%，没有连住。这些都是 10/23 收盘后才发生的。"
+    ],
+    "near_limit_note": "近涨停=日K涨幅接近涨停但涨停池里没有（可能收盘差一分钱、或前复权价格误差），待核。"
+  },
+  "terms": [
+    {
+      "term": "空间板",
+      "def": "当天连板数最高的票，代表市场敢炒多高，也叫“高度”。"
+    },
+    {
+      "term": "晋级率",
+      "def": "昨天N板的票，今天有多少比例变成N+1板。比如1进2晋级率15%，就是100只首板里只有15只第二天继续涨停。"
+    },
+    {
+      "term": "封板率",
+      "def": "当天封住涨停的家数 ÷ 盘中碰到过涨停的家数。越高说明追涨的资金越坚决。"
+    },
+    {
+      "term": "炸板",
+      "def": "盘中封住涨停后又被砸开，收盘没封住。炸板多=分歧大，打板的人容易亏。"
+    },
+    {
+      "term": "昨日涨停溢价",
+      "def": "昨天涨停的股票今天的平均涨幅。为正说明“昨天追涨停的人今天能赚钱”，接力意愿就强。"
+    },
+    {
+      "term": "一字板",
+      "def": "开盘直接涨停、全天没打开，散户几乎买不到。"
+    },
+    {
+      "term": "竞价板",
+      "def": "9:25集合竞价就直接以涨停价成交开盘（表里涨停时间显示09:25）。"
+    },
+    {
+      "term": "断板",
+      "def": "连板股某天没涨停，连板中断。高位股断板常伴随大跌（“核按钮”）。"
+    },
+    {
+      "term": "亏钱效应",
+      "def": "追高的人普遍亏钱，资金就不敢接力，题材容易熄火。"
+    },
+    {
+      "term": "高低切换",
+      "def": "资金从涨多了的高位方向，切到还没怎么涨的低位方向。"
+    },
+    {
+      "term": "合力",
+      "def": "同一只票机构和游资都在净买，方向一致，次日更容易有溢价。"
+    },
+    {
+      "term": "分歧",
+      "def": "看法不一致：有人大买有人大卖，或者炸板多、高低位涨跌不一。"
+    },
+    {
+      "term": "龙虎榜",
+      "def": "交易所每天公布的异动股买卖前五席位名单，能看到游资、机构是谁在买卖。"
+    },
+    {
+      "term": "游资",
+      "def": "短线大户/私募的营业部席位，进出快，龙虎榜上有固定“外号”，如“T王”“炒股养家”。"
+    },
+    {
+      "term": "机构专用",
+      "def": "龙虎榜上基金、保险等机构的席位。机构买通常持股周期更长。"
+    },
+    {
+      "term": "缩量",
+      "def": "成交额比前一天明显减少，说明参与的人变少、观望增多。"
+    },
+    {
+      "term": "首板",
+      "def": "第一次涨停。今天首板多，说明有很多新票被资金点火。"
+    },
+    {
+      "term": "连板",
+      "def": "连续涨停，比如“3连板”=连续3天涨停。"
+    }
+  ],
+  "news": [
+    {
+      "point": "财联社涨停分析：全市场 82 股涨停、连板 12 只、12 股封板未遂，封板率 87%（不含 ST、退市股）。焦点股写慈文传媒 11 天 7 板、海洋王 6 连板、大业股份 6 连板。慈文是累计口径，本页连续只算首板。其 82 只与扶摇不含 ST 的 80 只差 2 只，待核",
+      "src": "财联社",
+      "url": "https://m.cls.cn/detail/2513445"
+    },
+    {
+      "point": "财联社焦点复盘：沪指涨 0.89%，深成指涨 2.79%，创业板指涨 4.16%（早盘一度跌超 3%）；沪深成交约 1.96 万亿，较上一交易日放量 4276 亿；超 4500 只个股上涨。写连板晋级率 33.33%，海洋王「地天板」、大业「准地天板」——地天需用竞价和日 K 对准：海洋王开盘并不是跌停，而是盘中触及跌停价后收涨停。宇树科技上市以来首次 20% 涨停。福莱新材、兆威机电「5 天 3 板」、林州重机「6 天 3 板」、华瓷股份「8 天 4 板」均为累计口径，本页连续分别为首板、2 板、2 板、首板",
+      "src": "财联社",
+      "url": "https://www.cls.cn/detail/2513652"
+    },
+    {
+      "point": "证券时报·数据宝：不含未开板新股，可交易 A 股上涨 4525 只（占比超 81%）、下跌 909 只；收盘涨停 84 只（主板 66、创业板 11、科创板 5、北交所 2，含 2 只 ST）、跌停 9 只；另写 20 股封板未遂、封板率 80.77%，与扶摇 12 只炸板、87% 及财联社 12 只、87% 都不是同一口径。封单金额居前为宇树科技 4.04 亿、歌尔股份 3.32 亿、天娱数科 3.27 亿，与扶摇收盘封单一致。行业上机械设备、计算机、电子居前",
+      "src": "证券时报·数据宝",
+      "url": "https://stock.10jqka.com.cn/20261023/c681039302.shtml"
+    },
+    {
+      "point": "财联社午间涨停分析：午盘全市场 19 股涨停、连板 8 只、12 股封板未遂，封板率 61%。焦点写上海九百 3 连板、华阳智能创业板 2 连板。与收盘 80 只、封板率 87% 对照，说明修复主要发生在下午",
+      "src": "财联社",
+      "url": "https://m.cls.cn/detail/2513195"
+    },
+    {
+      "point": "沪指收 3690.48 点涨 0.89%，深成指涨 2.79%，创业板指涨 4.16%，科创50 涨 3.04%。数据宝同文给出上涨 4525、下跌 909、平盘 137；沪深成交约 1.96 万亿、较上一交易日放量约 4276 亿，另见焦点复盘。本页三市成交 19732 亿、沪深 19563 亿（放量 4275 亿），与报道沪深口径一致",
+      "src": "证券时报·数据宝",
+      "url": "https://stock.10jqka.com.cn/20261023/c681039302.shtml"
+    }
+  ],
+  "gaps": [
+    "东财 tick 覆盖：先 GET /api/em-market/overview，确认 2026-10-23 complete=true，ok_count=4420，fail_count=0，tick_rows=14045488，auction_tick_rows=197537（连续竞价约 13847951 笔）。当日宇宙默认不含科创、北交所、ST。未调用 POST /sync/*，未扫描 parquet。",
+    "tick-flow 口径：买 flag=2，卖 flag=1；竞价不计入，只反映连续竞价；金额=价×量×100，净额=买−卖。先拉涨停池与关键观察票，不扫全市场。扶摇涨停 82 只里，5 只科创（宇树科技、奥普特、海天瑞声、晶丰明源、华依科技）和 2 只 ST（*ST闻泰、*ST国中）无 tick 记录，未编造；其余 75 只与东财竞价列表一致，全部拉到。整批含观察票、断板票共 104 只请求，墙钟 13.20 秒，HTTP 全部成功。75 只涨停合计买入 310.98 亿、卖出 328.48 亿、净卖 17.51 亿，净买 35 只、净卖 40 只。一字板（上海九百、赛福天、睿能科技）常见买盘为 0、净卖约等于成交额，解读时与放量开板票（大业、海洋王、兆威、天娱等）分开。",
+    "涨停家数：扶摇涨停池全口径 82 只，其中 ST 2 只、非 ST 80 只（含科创 5 只），通常不含北交所。东财竞价接口 75 只，少的就是这 5 只科创和 2 只 ST。分笔回放收盘封住 76 只，与竞价 75、扶摇 80/82 都有差额，待核。财联社写 82 只（称不含 ST、退市股），与扶摇全口径 82 一致、与不含 ST 的 80 差 2 只，待核——可能是把北交 2 只算进来、或把 ST 算进去，不能并成同一口径。数据宝写 84 只，并给出主板 66、创业板 11、科创板 5、北交所 2；84−2 只北交=82，与扶摇全口径对齐。本页市场统计用扶摇不含 ST 的 80、封板率 87.0%（80/92）；叙述中会并列全口径 82，以及数据宝含北交的 84。",
+    "封板率与炸板：扶摇统计页为 80/92=87.0%，炸板 12，与财联社 87%、12 只封板未遂接近。按全口径 82/94 自对为 87.2%。数据宝写 20 股封板未遂、封板率 80.77%（按 84/104）。东方财富 Choice 同样写 84 涨停、20 只触及、80.77%。分笔回放：触及 91、收盘封住 76、收盘未封 15、回封 40、开过板 55、竞价封板 6 只（含后来打开的三峡新材、南矿集团）。回放「未封 15」与扶摇炸板 12 不是同一名单，待核。",
+    "跌停：扶摇池 7 只，其中 1 只 *ST卓然，非 ST 6 只。数据宝写跌停 9 只。财联社涨停分析未给官方跌停数。差 2 只待核。本页叙述用扶摇 7，并注明含 1 只 ST。",
+    "涨跌家数：本机前复权日K 为沪深 4195 涨 / 886 跌 / 135 平（样本 5216，不含北交所）。数据宝为上涨 4525 只、下跌 909 只、平盘 137 只（可交易 A 股，口径更宽，含北交所）。财联社焦点复盘写超 4500 只上涨，并称早盘下跌个股一度超 5000 家，后者是盘中数字，与收盘家数不是同一口径。",
+    "三市成交额=上证综指+深证综指+北证50，结果约 19731.9 亿，较 10/22 +27.9%。沪深两市约 19562.6 亿，较 10/22 的 15287.1 亿多 4275.5 亿。公开报道多写沪深约 1.96 万亿、放量约 4276 亿，与沪深口径一致。",
+    "1 进 2：昨天首板 24 只（全部非 ST）、无停牌，晋级 9 只，9/24=37.5%，与扶摇 page_boards 的 0.38 一致。2 进 3 为 1/5=20%，3 进 4 为 0/2，5 进 6 为 2/2。财联社连板晋级率 33.33%，是按昨天 9 只连板今天晋级 3 只（大业、海洋王、上海九百）计算，与本页重点看的 1 进 2、2 进 3 不是同一指标。",
+    "连板只按连续涨停计。媒体把慈文传媒写成「11 天 7 板」、华瓷股份「8 天 4 板」、福莱新材/兆威机电「5 天 3 板」、林州重机「6 天 3 板」，都是累计口径。本页空间板以连续 6 板为准（大业股份、海洋王）；上海九百是 3 板，兆威是 2 板，福莱、慈文、华瓷是首板。",
+    "开板次数与「地天」口径：海洋王扶摇记开板 5 次、14:25 封；回放字段 15 次，事件列表能点名的开板 3 次（14:30、14:35、14:40），待核。竞价分笔显示早盘到过跌停价，开盘已是 -0.62%，盘中最低 10.09 元再次触及跌停价后收涨停。媒体写「地天板」，本页不把它写成开盘跌停。大业扶摇与回放均记 13:09 封、之后未开；竞价则是 09:20 几乎到跌停价、开盘 -4.00%。媒体写「准地天板」，与日 K、竞价一致的是午前接近跌停、午后回封，不是一字。兆威机电扶摇 5 次、回放 11 次；襄阳轴承扶摇 6 次、回放 18 次，首封时间 10:03 与 09:46 也不同，待核。回放/竞价 seal_yuan 与扶摇收盘封单常不一致，例如上海九百回放/竞价约 0.11 亿，扶摇收盘封单 1.09 亿；大业竞价接口 0.28 亿，收盘 0.95 亿，两者不要混用。",
+    "指数盘中高低点用扶摇指数K。上证、创业板指均为低开探底后翻红，收盘接近最高。东财分时/tick 已用于个股，未改指数口径。深成指本机 +2.787%，报道多写 +2.79%。",
+    "龙虎榜是扶摇（同花顺口径）1 日榜，当日去重 66 只，其中含福新转债、常青转债、豪美转债 3 只，另有 REIT，与普通股票榜需区分；游资外号是扶摇分类。一字高标常常不上榜，上海九百即是。有 tick 日必须用连续竞价净额校正前五席位：天娱数科榜面净买 4.89 亿、tick 净卖 13.07 亿；大业、海洋王则是榜面净卖、tick 净买；兆威榜面净买、tick 小净卖。宇树科技无 tick，只写榜面。",
+    "题材：机器人、物理 AI、零售、传媒手工按原因清点，与存储、军工大量交叉，自动或媒体家数不能直接当主线家数。创业板 20cm、科创票只在叙述中出现，不进观察名单。上海九百、三峡新材分别按独立零售、独立重组写。宇树科技有当日产业会议和媒体报道，但 tick 缺失，不能编造净额。个股涨跌凡未拉到日 K 的（例如个别存储股票的报道涨幅）一律不写入。",
+    "个股成交额用日K 量×前复权收盘价估算，与竞价接口 turnover、报道数量级一致即可，精确值口径可能不同。大业约 18.23 亿，海洋王约 19.63 亿。宇树科技日 K 估算约 52.73 亿，有报道写约 47.70 亿，口径差待核，本页不把报道值当唯一精确值。",
+    "本交易日仍在东财竞价/tick 覆盖期内，已用竞价和 tick 拆高标、认主线、校正龙虎榜；未把竞价买卖计入 tick-flow。10/22 notes/摘要 post 里「大业、海洋王到 6 板但都不是一字」已用当日日K、竞价和回放重核，不是照抄，也不能改回一字。"
+  ],
+  "disclaimer": "基于数据的分析框架，不构成投资建议"
+}
