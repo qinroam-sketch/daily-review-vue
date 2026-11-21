@@ -1,0 +1,276 @@
+{
+  "_comment": "这是数据格式说明，不是真实交易日。应用只读取 manifest.json 里列出的日期，不会把本文件当作一天展示。",
+  "date": "YYYY-MM-DD",
+  "weekday": "一",
+  "weekday_full": "星期一",
+  "prev": "YYYY-MM-DD",
+  "headline": "一句话总结",
+  "summary_html": "可选，含 <p><b> 的详细摘要",
+  "sentiment": {
+    "tag": "分歧偏修复",
+    "auto_stage": "规则自动判断的阶段名",
+    "auto_why": [
+      "依据1"
+    ],
+    "notes": [
+      "白话解读"
+    ]
+  },
+  "highlight_theme": "核电/核聚变",
+  "market": {
+    "src": "数据口径说明",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3809.66,
+        "pct": -0.59,
+        "turnover": 0,
+        "prev_turnover": 0
+      }
+    ],
+    "turnover": 2011280730000,
+    "turnover_prev": 2560090508000,
+    "turnover_chg_pct": -21.4,
+    "up": 3864,
+    "down": 1275,
+    "flat": 52,
+    "n": 5191,
+    "up_prev": 4393,
+    "down_prev": 693,
+    "median_pct": 1.44,
+    "big_up": 178,
+    "big_dn": 109,
+    "big_up_prev": 421,
+    "big_dn_prev": 1,
+    "lu_nonst": 75,
+    "lu_all": 83,
+    "lu_st": 8,
+    "lu_nonst_prev": 98,
+    "lu_all_prev": 100,
+    "ld": 9,
+    "ld_prev": 0,
+    "br": 16,
+    "br_prev": 105,
+    "seal_rate": 0.8241758241758241,
+    "seal_rate_prev": 0.4827586206896552,
+    "sealed": 75,
+    "touched": 91,
+    "prem": 1.26,
+    "prem_up": 55,
+    "prem_n": 98,
+    "prem_lb": 4.05,
+    "prem_lb_n": 9,
+    "height": 6,
+    "height_prev": 9,
+    "height_name": "传智教育",
+    "notes": []
+  },
+  "history": [
+    {
+      "date": "YYYY-MM-DD",
+      "lu_nonst": 75,
+      "ld": 9,
+      "br": 16,
+      "seal_rate": 0.82,
+      "height": 6,
+      "prem": 1.26,
+      "turnover": 0
+    }
+  ],
+  "ladder": {
+    "src": "",
+    "boards": [
+      {
+        "level": 6,
+        "count": 1,
+        "stocks": [
+          {
+            "code": "003032",
+            "name": "传智教育",
+            "boards": 6,
+            "boards_text": "6连板",
+            "limit_up_time": "09:25"
+          }
+        ]
+      }
+    ],
+    "promotions": [
+      {
+        "label": "1进2",
+        "yesterday": 90,
+        "promoted": 13,
+        "suspended": 1,
+        "tradable": 89,
+        "rate": 0.15,
+        "promoted_names": [],
+        "suspended_names": []
+      }
+    ],
+    "broke": [
+      {
+        "name": "",
+        "code": "",
+        "yesterday_text": "2连板",
+        "pct": -8.22,
+        "status": null,
+        "reason": ""
+      }
+    ],
+    "fuyao_page_boards": [
+      {
+        "board_level": "two",
+        "stock_count": 13,
+        "promotion_rate": 0.15
+      }
+    ],
+    "notes": []
+  },
+  "themes": {
+    "src": "",
+    "top": [
+      {
+        "name": "核电/核聚变",
+        "n": 13,
+        "status": "新启动",
+        "lead": {
+          "name": "中岩大地"
+        },
+        "mid": {
+          "name": "中国核建"
+        },
+        "followers": [],
+        "trend": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          13
+        ],
+        "trend_dates": [],
+        "stocks": []
+      }
+    ],
+    "distribution": [
+      {
+        "name": "机器人",
+        "n": 16
+      }
+    ],
+    "notes": []
+  },
+  "loss": {
+    "src": "",
+    "limit_downs": [
+      {
+        "name": "兆易创新",
+        "code": "603986",
+        "pct": -10.0,
+        "first_limit_time": "14:06",
+        "turnover_ratio_pct": 9.8,
+        "keywords": []
+      }
+    ],
+    "yesterday_returns": [
+      1.2,
+      -3.0
+    ],
+    "yesterday_worst": [],
+    "big_down": [],
+    "notes": []
+  },
+  "lhb": {
+    "src": "",
+    "count": 42,
+    "net_buy_top": [
+      {
+        "name": "",
+        "code": "",
+        "pct": 0,
+        "net": 0,
+        "org_net": null,
+        "hot_net": null,
+        "tag": "分歧",
+        "themes": []
+      }
+    ],
+    "net_sell_top": [],
+    "theme_agg": [],
+    "org_buy_top": [],
+    "org_sell_top": [],
+    "hot_money": [
+      {
+        "name": "T王",
+        "net": 0,
+        "stocks": [
+          {
+            "name": "一鸣食品",
+            "net": 0
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  "next": {
+    "src": "",
+    "points": [
+      "观察点"
+    ],
+    "watch": [
+      {
+        "code": "003032",
+        "name": "传智教育",
+        "why": "空间板"
+      }
+    ]
+  },
+  "post": {
+    "is_hindsight": true,
+    "warning": "以下为事后数据（复盘当天并不知道）",
+    "days": [
+      {
+        "date": "YYYY-MM-DD",
+        "index_pct": 0.33,
+        "lu_nonst": 137,
+        "ld": 1,
+        "seal_rate": 0.9,
+        "height": 7,
+        "prem": 4.6,
+        "turnover": 0
+      }
+    ],
+    "theme_follow": [
+      {
+        "name": "核电/核聚变",
+        "counts": [
+          13,
+          5,
+          0
+        ],
+        "dates": []
+      }
+    ],
+    "watch_follow": [],
+    "notes": [],
+    "near_limit_note": ""
+  },
+  "terms": [
+    {
+      "term": "封板率",
+      "def": "..."
+    }
+  ],
+  "news": [
+    {
+      "point": "...",
+      "src": "证券时报",
+      "url": "https://..."
+    }
+  ],
+  "gaps": [
+    "待核说明"
+  ],
+  "disclaimer": "基于数据的分析框架，不构成投资建议"
+}
