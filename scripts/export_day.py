@@ -504,13 +504,14 @@ def export(D, POST=5):
     term_keys = notes.get('terms') or ['空间板', '晋级率', '封板率', '炸板', '昨日涨停溢价', '跷跷板', '合力', '停牌核查']
     terms = [{'term': k, 'def': TERMS.get(k, '待补')} for k in term_keys]
 
-    highlight = None
-    for t in top:
-        if t['status'] == '新启动':
-            highlight = t['name']
-            break
+    highlight = notes.get('highlight_theme')
+    if not highlight:
+        for t in top:
+            if t['status'] == '新启动' and t['name'] != '(未归类)':
+                highlight = t['name']
+                break
     if not highlight and top:
-        highlight = top[0]['name']
+        highlight = next((t['name'] for t in top if t['name'] != '(未归类)'), top[0]['name'])
 
     # 样板日使用已核对的一句话；其他日期自动拼
     if notes.get('headline'):
